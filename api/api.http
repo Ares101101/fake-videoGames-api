@@ -1,6 +1,10 @@
-GET  https://localhost:1234/
+GET  http://localhost:1234/boocks
 ###
-POST https://localhost:1234/boock 
+GET  http://localhost:1234/boocks/55
+###
+GET  http://localhost:1234/boocks?categor=Networking
+###
+POST http://localhost:1234/boock/
 Content-Type: application/json
 
 {
