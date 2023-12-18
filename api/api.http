@@ -1,0 +1,12 @@
+GET  https://localhost:1234/
+###
+POST https://localhost:1234/boock 
+Content-Type: application/json
+
+{
+    "name": "100 años de soledad",
+    "type":"normal",
+    "movies":[
+        "transform"
+    ]
+}
