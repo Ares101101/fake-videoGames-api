@@ -1,16 +1,30 @@
 GET  http://localhost:1234/boocks
 ###
-GET  http://localhost:1234/boocks/55
+GET  http://localhost:1234/boocks/c4dda79e-ed7c-4a2c-81be-df5a32a1741d
 ###
 GET  http://localhost:1234/boocks?categor=Networking
 ###
-POST http://localhost:1234/boock/
+POST http://localhost:1234/boocks
 Content-Type: application/json
 
 {
-    "name": "100 años de soledad",
-    "type":"normal",
-    "movies":[
-        "transform"
-    ]
+    "sql": "SELECT * FROM users",
+    "title": "Codec",
+    "isbn": "193239459870j-e",
+    "pageCount": 80,
+    "publishedDate": {
+        "$date": "2005-03-01T00:00:00.000-0800"
+    },
+    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal10.jpg",
+    "status": "PUBLISH",
+    "authors": ["anonime"],
+    "categories": ["others"]
 }
+### Actualizar una pelicula 
+
+PATCH  http://localhost:1234/boocks/72
+Content-Type: application/json
+
+    {
+        "pageCount":590
+    }

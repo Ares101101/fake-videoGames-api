@@ -1,11 +1,12 @@
 const express = require('express')
+const crypto = require('node:crypto')
 const boocks = require('./api/books.json')
+const { validateBoock, validatePartialBoock } = require('./boocks')
 
 const app = express()
 
+app.use(express.json())
 app.disable('x-powered-by')
-
-const PORT = process.env.PORT ?? 1234
 
 app.get('/', (req, res) => {
   res.send('<h1>Welcome!</h1>')
@@ -24,26 +25,50 @@ app.get('/boocks', (req, res) => {
 
 app.get('/boocks/:id', (req, res) => {
   const { id } = req.params
-  const boock = boocks.find(boock => boock.id === parseInt(id))
+  const boock = boocks.find(boock => boock.id === id)
   if (boock) return res.json(boock)
 
   res.status(404).json({ message: 'boock not found' })
 })
 
-app.post('/boock', (req, res) => {
-  let body = ''
+app.post('/boocks', (req, res) => {
+  const result = validateBoock(req.body)
 
-  req.on('data', (chuck) => {
-    body += chuck.toString()
-  })
+  if (result.error) {
+    return res.status(400).json({ error: JSON.parse(result.error.message) })
+  }
+  const newBoock = {
+    id: crypto.randomUUID(),
+    ...result.data
+  }
 
-  req.on('end', () => {
-    const data = JSON.parse(body)
-    data.timestamp = Date.now()
-    res.status(201).end(JSON.stringify(data))
-  })
+  boocks.push(newBoock)
+
+  res.status(201).json(newBoock)
 })
 
+app.patch('/boocks/:id', (req, res) => {
+  const result = validatePartialBoock(req.body)
+
+  if (!result.success) {
+    return res.status(400).json({ error: JSON.parse(result.error.message) })
+  }
+  const { id } = req.params
+  const boockIndex = boocks.findIndex(boock => boock.id === id)
+
+  if (boockIndex === -1) {
+    return res.status(404).json({ error: 'no se encontro el id' })
+  }
+  const updateBoock = {
+    ...boocks[boockIndex],
+    ...result.data
+  }
+
+  boocks[boockIndex] = updateBoock
+  return res.json(updateBoock)
+})
+
+const PORT = process.env.PORT ?? 1234
 app.listen(PORT, () => {
   console.log(`listening on http://localhost:${PORT}`)
 })
