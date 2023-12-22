@@ -1,4 +1,4 @@
-const z = require('zod')
+import z from 'zod'
 
 const boockSchema = z.object({
   title: z.string({
@@ -18,15 +18,10 @@ const boockSchema = z.object({
   categories: z.array(z.string())
 })
 
-function validateBoock (index) {
+export function validateBoock (index) {
   return boockSchema.safeParse(index)
 }
 
-function validatePartialBoock (index) {
+export function validatePartialBoock (index) {
   return boockSchema.partial().safeParse(index)
-}
-
-module.exports = {
-  validateBoock,
-  validatePartialBoock
 }

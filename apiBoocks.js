@@ -1,11 +1,11 @@
-const express = require('express')
-const crypto = require('node:crypto')
-const boocks = require('./api/books.json')
-const { validateBoock, validatePartialBoock } = require('./boocks')
+import express, { json } from 'express'
+import { randomUUID } from 'node:crypto'
+import boocks from "./api/books.json" with { "type": "json" }
+import { validateBoock, validatePartialBoock } from './boocks.js'
 
 const app = express()
 
-app.use(express.json())
+app.use(json())
 app.disable('x-powered-by')
 
 app.get('/', (req, res) => {
@@ -38,7 +38,7 @@ app.post('/boocks', (req, res) => {
     return res.status(400).json({ error: JSON.parse(result.error.message) })
   }
   const newBoock = {
-    id: crypto.randomUUID(),
+    id: randomUUID(),
     ...result.data
   }
 
