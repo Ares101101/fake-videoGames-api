@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node --watch 1https.js"
+    "dev": "node --watch 1https.js",
+    "start": "node 1https.js"
   },
   "keywords": [],
   "author": "",

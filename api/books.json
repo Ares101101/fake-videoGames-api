@@ -2857,7 +2857,7 @@
     "authors": ["Anonime"],
     "categories": ["Java", "Internet"]
 }, {
-    "id": "215",
+    "id": "216",
     "title": "The Awesome Power of Java Beans",
     "isbn": "1884777562",
     "pageCount": 500,
@@ -2870,7 +2870,7 @@
     "authors": ["Lawrence H. Rodrigues"],
     "categories": ["Java"]
 }, {
-    "id": "216",
+    "id": "217",
     "title": "Personal Videoconferencing",
     "isbn": "013268327X",
     "pageCount": 420,
@@ -2884,7 +2884,7 @@
     "authors": ["Evan Rosen"],
     "categories": ["Networking"]
 }, {
-    "id": "217",
+    "id": "218",
     "title": "The Cloud at Your Service",
     "isbn": "1935182528",
     "pageCount": 200,
@@ -2896,7 +2896,7 @@
     "authors": ["Jothy Rosenberg", "Arthur Mateos"],
     "categories": ["Internet"]
 }, {
-    "id": "218",
+    "id": "219",
     "title": "Implementing Elliptic Curve Cryptography",
     "isbn": "1884777694",
     "pageCount": 330,
@@ -2910,7 +2910,7 @@
     "authors": ["Michael Rosing"],
     "categories": ["Theory"]
 }, {
-    "id": "219",
+    "id": "220",
     "title": "SOA Patterns",
     "isbn": "1933988266",
     "pageCount": 250,
@@ -2924,7 +2924,7 @@
     "authors": ["Arnon Rotem-Gal-Oz"],
     "categories": ["SOA"]
 }, {
-    "id": "220",
+    "id": "221",
     "title": "Hello World!",
     "isbn": "1933988495",
     "pageCount": 432,
@@ -2938,7 +2938,7 @@
     "authors": ["Warren D. Sande", "Carter Sande"],
     "categories": ["Programming", "Python"]
 }, {
-    "id": "279",
+    "id": "222",
     "title": "SCBCD Exam Study Kit",
     "isbn": "1932394400",
     "pageCount": 488,
@@ -2951,7 +2951,7 @@
     "authors": ["Paul Sanghera"],
     "categories": ["Java"]
 }, {
-    "id": "280",
+    "id": "223",
     "title": "Portlets in Action",
     "isbn": "1935182544",
     "pageCount": 475,
@@ -2965,7 +2965,7 @@
     "authors": ["Ashish Sarin"],
     "categories": ["Java"]
 }, {
-    "id": "281",
+    "id": "224",
     "title": "SWT/JFace in Action",
     "isbn": "1932394273",
     "pageCount": 496,
@@ -2979,7 +2979,7 @@
     "authors": ["Matthew Scarpino", "Stephen Holder", "Stanford Ng", "", "Laurent Mihalkovic"],
     "categories": ["Java"]
 }, {
-    "id": "282",
+    "id": "225",
     "title": "OpenCL in Action",
     "isbn": "1617290173",
     "pageCount": 0,
@@ -2991,7 +2991,7 @@
     "authors": ["Matthew Scarpino"],
     "categories": ["Programming"]
 }, {
-    "id": "283",
+    "id": "226",
     "title": "Multiprotocol over ATM",
     "isbn": "138892709",
     "pageCount": 341,
@@ -3005,7 +3005,7 @@
     "authors": ["Andrew Schmidt", "Daniel Minoli"],
     "categories": ["Internet", "Networking"]
 }, {
-    "id": "284",
+    "id": "227",
     "title": "Dependency Injection in .NET",
     "isbn": "1935182501",
     "pageCount": 375,
@@ -3019,7 +3019,7 @@
     "authors": ["Mark Seemann"],
     "categories": ["Microsoft .NET"]
 }, {
-    "id": "285",
+    "id": "228",
     "title": "Java 3D Programming",
     "isbn": "1930110359",
     "pageCount": 400,
@@ -3032,7 +3032,7 @@
     "authors": ["Daniel Selman"],
     "categories": ["Java", "Internet", "Computer Graph"]
 }, {
-    "id": "286",
+    "id": "229",
     "title": "Liferay in Action",
     "isbn": "193518282X",
     "pageCount": 375,
@@ -3044,7 +3044,7 @@
     "authors": ["Richard Sezov", "Jr"],
     "categories": ["Internet"]
 }, {
-    "id": "287",
+    "id": "230",
     "title": "JSP Tag Libraries",
     "isbn": "193011009X",
     "pageCount": 656,
@@ -3057,7 +3057,7 @@
     "authors": ["Gal Shachor", "Adam Chace", "Magnus Rydin"],
     "categories": ["Java", "Internet"]
 }, {
-    "id": "289",
+    "id": "231",
     "title": "Instant Messaging in Java",
     "isbn": "1930110464",
     "pageCount": 402,
@@ -3071,7 +3071,7 @@
     "authors": ["Iain Shigeoka"],
     "categories": ["Internet", "Java"]
 }, {
-    "id": "290",
+    "id": "232",
     "title": "Java Applets and Channels Without Programming",
     "isbn": "1884777392",
     "pageCount": 372,
@@ -3085,7 +3085,7 @@
     "authors": ["Ronny Richardson", "Michael Shoffner", "Marq Singer", "Bruce Murray", "", "Jack Gambol"],
     "categories": ["Java"]
 }, {
-    "id": "291",
+    "id": "233",
     "title": "PowerShell in Practice",
     "isbn": "1935182005",
     "pageCount": 500,
@@ -3099,7 +3099,7 @@
     "authors": ["Richard Siddaway"],
     "categories": ["Microsoft .NET"]
 }, {
-    "id": "292",
+    "id": "234",
     "title": "PowerShell and WMI",
     "isbn": "1617290114",
     "pageCount": 0,
@@ -3111,7 +3111,7 @@
     "authors": ["Richard Siddaway"],
     "categories": ["Microsoft .NET"]
 }, {
-    "id": "293",
+    "id": "235",
     "title": "Making Sense of Java",
     "isbn": "132632942",
     "pageCount": 180,
@@ -3125,7 +3125,7 @@
     "authors": ["Bruce Simpson", "John Mitchell", "Brian Christeson", "Rehan Zaidi", "", "Jonathan Levine"],
     "categories": ["Java", "Business"]
 }, {
-    "id": "294",
+    "id": "236",
     "title": "C++/CLI in Action",
     "isbn": "1932394818",
     "pageCount": 416,
@@ -3139,7 +3139,7 @@
     "authors": ["Nishant Sivakumar"],
     "categories": ["Microsoft"]
 }, {
-    "id": "295",
+    "id": "237",
     "title": "C# in Depth",
     "isbn": "1933988363",
     "pageCount": 424,
@@ -3152,7 +3152,7 @@
     "authors": ["Jon Skeet"],
     "categories": ["Microsoft .NET"]
 }, {
-    "id": "296",
+    "id": "238",
     "title": "C# in Depth, Second Edition",
     "isbn": "1935182471",
     "pageCount": 584,
@@ -3163,7 +3163,7 @@
     "authors": ["Jon Skeet"],
     "categories": ["Microsoft .NET"]
 }, {
-    "id": "297",
+    "id": "239",
     "title": "Magical A-Life Avatars",
     "isbn": "1884777589",
     "pageCount": 450,
@@ -3177,7 +3177,7 @@
     "authors": ["Peter Small"],
     "categories": ["Internet", "Theory"]
 }, {
-    "id": "298",
+    "id": "240",
     "title": "Becoming Agile",
     "isbn": "1933988258",
     "pageCount": 408,
@@ -3191,7 +3191,7 @@
     "authors": ["Greg Smith", "Ahmed Sidky"],
     "categories": ["Software Engineering"]
 }, {
-    "id": "299",
+    "id": "241",
     "title": "ActiveMQ in Action",
     "isbn": "1933988940",
     "pageCount": 408,
@@ -3205,7 +3205,7 @@
     "authors": ["Bruce Snyder", "Dejan Bosanac", "", "Rob Davies"],
     "categories": ["Java"]
 }, {
-    "id": "300",
+    "id": "242",
     "title": "Implementing PeopleSoft Financials",
     "isbn": "138411808",
     "pageCount": 220,
@@ -3219,7 +3219,7 @@
     "authors": ["Early Stephens"],
     "categories": ["Business", "Client-Server"]
 }, {
-    "id": "302",
+    "id": "243",
     "title": "SQL Server DMVs in Action",
     "isbn": "1935182730",
     "pageCount": 352,
@@ -3233,7 +3233,7 @@
     "authors": ["Ian W. Stirk"],
     "categories": ["Microsoft .NET"]
 }, {
-    "id": "303",
+    "id": "244",
     "title": "Scala in Depth",
     "isbn": "1935182706",
     "pageCount": 0,
@@ -3247,7 +3247,7 @@
     "authors": ["Joshua D. Suereth"],
     "categories": ["Java"]
 }, {
-    "id": "304",
+    "id": "245",
     "title": "JMX in Action",
     "isbn": "1930110561",
     "pageCount": 424,
@@ -3260,7 +3260,7 @@
     "authors": ["Benjamin G. Sullins", "Mark B. Whipple"],
     "categories": ["Java"]
 }, {
-    "id": "305",
+    "id": "246",
     "title": "EJB Cookbook",
     "isbn": "1930110944",
     "pageCount": 352,
@@ -3274,7 +3274,7 @@
     "authors": ["Benjamin G. Sullins", "Mark B. Whipple"],
     "categories": ["Java"]
 }, {
-    "id": "306",
+    "id": "247",
     "title": "GWT in Action, Second Edition",
     "isbn": "1935182846",
     "pageCount": 0,
@@ -3286,7 +3286,7 @@
     "authors": ["Adam Tacy", "Robert Hanson", "Jason Essington", "", "Anna Tökke"],
     "categories": ["Java"]
 }, {
-    "id": "307",
+    "id": "248",
     "title": "JUnit in Action, Second Edition",
     "isbn": "1935182021",
     "pageCount": 504,
@@ -3300,7 +3300,7 @@
     "authors": ["Petar Tahchiev", "Felipe Leme", "Vincent Massol", "", "Gary Gregory"],
     "categories": ["Java"]
 }, {
-    "id": "308",
+    "id": "249",
     "title": "Bitter Java",
     "isbn": "193011043X",
     "pageCount": 368,
@@ -3313,7 +3313,7 @@
     "authors": ["Bruce A. Tate"],
     "categories": ["Java", "Business", "Client Server", ""]
 }, {
-    "id": "309",
+    "id": "250",
     "title": "Bitter EJB",
     "isbn": "1930110952",
     "pageCount": 440,
@@ -3327,7 +3327,7 @@
     "authors": ["Bruce Tate", "Mike Clark", "Bob Lee", "Patrick Linskey"],
     "categories": ["Java", "Internet"]
 }, {
-    "id": "310",
+    "id": "251",
     "title": "Spring Batch in Action",
     "isbn": "1935182951",
     "pageCount": 0,
@@ -3339,7 +3339,7 @@
     "authors": ["Arnaud Cogoluegnes", "Thierry Templier", "Gary Gregory", "Olivier Bazoud"],
     "categories": ["In Action"]
 }, {
-    "id": "312",
+    "id": "252",
     "title": "JDK 1.4 Tutorial",
     "isbn": "1930110456",
     "pageCount": 408,
@@ -3352,7 +3352,7 @@
     "authors": ["Gregory M. Travis"],
     "categories": ["Java", "Internet"]
 }, {
-    "id": "313",
+    "id": "253",
     "title": "iPhone and iPad in Action",
     "isbn": "1935182587",
     "pageCount": 450,
@@ -3366,7 +3366,7 @@
     "authors": ["Brandon Trebitowski", "Christopher Allen", "", "Shannon Appelcline"],
     "categories": ["Mobile Technology"]
 }, {
-    "id": "314",
+    "id": "254",
     "title": "SQL Server 2005 Reporting Services in Action",
     "isbn": "1932394761",
     "pageCount": 600,
@@ -3379,7 +3379,7 @@
     "authors": ["Bret Updegraff"],
     "categories": ["Microsoft"]
 }, {
-    "id": "315",
+    "id": "255",
     "title": "Ten Years of UserFriendly.Org",
     "isbn": "1935182129",
     "pageCount": 1096,
@@ -3393,7 +3393,7 @@
     "authors": ["JD \"Illiad\" Frazer"],
     "categories": ["Miscellaneous"]
 }, {
-    "id": "316",
+    "id": "256",
     "title": "Graphics Programming with Perl",
     "isbn": "1930110022",
     "pageCount": 328,
@@ -3406,7 +3406,7 @@
     "authors": ["Martien Verbruggen"],
     "categories": ["Computer Graphics", "Perl"]
 }, {
-    "id": "317",
+    "id": "257",
     "title": "RabbitMQ in Action",
     "isbn": "1935182978",
     "pageCount": 0,
@@ -3418,7 +3418,7 @@
     "authors": ["Alvaro Videla", "Jason J.W. Williams"],
     "categories": ["Software Engineering"]
 }, {
-    "id": "318",
+    "id": "258",
     "title": "XDoclet in Action",
     "isbn": "1932394052",
     "pageCount": 624,
@@ -3431,7 +3431,7 @@
     "authors": ["Craig Walls", "Norman Richards"],
     "categories": ["XML", "Java"]
 }, {
-    "id": "319",
+    "id": "259",
     "title": "Spring in Action",
     "isbn": "1932394354",
     "pageCount": 472,
@@ -3445,7 +3445,7 @@
     "authors": ["Craig Walls", "Ryan Breidenbach"],
     "categories": ["Java"]
 }, {
-    "id": "320",
+    "id": "260",
     "title": "Spring in Action, Second Edition",
     "isbn": "1933988134",
     "pageCount": 768,
@@ -3458,7 +3458,7 @@
     "authors": ["Craig Walls with Ryan Breidenbach"],
     "categories": ["Java"]
 }, {
-    "id": "321",
+    "id": "261",
     "title": "Spring in Action, Third Edition",
     "isbn": "1935182358",
     "pageCount": 424,
@@ -3472,7 +3472,7 @@
     "authors": ["Craig Walls"],
     "categories": ["Java"]
 }, {
-    "id": "325",
+    "id": "262",
     "title": "Spring in Practice",
     "isbn": "1935182056",
     "pageCount": 600,
@@ -3486,7 +3486,7 @@
     "authors": ["Willie Wheeler with Joshua White"],
     "categories": ["Java", "Software Development"]
 }, {
-    "id": "327",
+    "id": "263",
     "title": "Java 2 Micro Edition",
     "isbn": "1930110332",
     "pageCount": 504,
@@ -3499,7 +3499,7 @@
     "authors": ["James P. White", "David A. Hemphill"],
     "categories": ["Java", "Internet"]
 }, {
-    "id": "328",
+    "id": "264",
     "title": "SharePoint 2010 Workflows in Action",
     "isbn": "1935182714",
     "pageCount": 360,
@@ -3513,7 +3513,7 @@
     "authors": ["Phil Wicklund"],
     "categories": ["Microsoft .NET"]
 }, {
-    "id": "329",
+    "id": "265",
     "title": "SharePoint 2010 Web Parts in Action",
     "isbn": "1935182773",
     "pageCount": 448,
@@ -3527,7 +3527,7 @@
     "authors": ["Wictor Wilén"],
     "categories": ["Microsoft .NET"]
 }, {
-    "id": "330",
+    "id": "266",
     "title": "C++ Concurrency in Action",
     "isbn": "1933988770",
     "pageCount": 325,
@@ -3541,7 +3541,7 @@
     "authors": ["Anthony Williams"],
     "categories": ["Microsoft .NET"]
 }, {
-    "id": "331",
+    "id": "267",
     "title": "Java Servlets by Example",
     "isbn": "188477766X",
     "pageCount": 550,
@@ -3554,7 +3554,7 @@
     "authors": ["Alan R. Williamson"],
     "categories": ["Java", "Internet"]
 }, {
-    "id": "332",
+    "id": "268",
     "title": "XML Programming with VB and ASP",
     "isbn": "1884777872",
     "pageCount": 320,
@@ -3567,7 +3567,7 @@
     "authors": ["Mark Wilson", "Tracey Wilson"],
     "categories": ["XML", "Internet"]
 }, {
-    "id": "334",
+    "id": "269",
     "title": "Oracle8i Database Administration",
     "isbn": "1884777783",
     "pageCount": 543,
@@ -3580,7 +3580,7 @@
     "authors": ["Noel Yuhanna"],
     "categories": ["Client-Server", "Networking"]
 }, {
-    "id": "335",
+    "id": "270",
     "title": "The Engaging Web",
     "isbn": "9781935182078",
     "pageCount": 325,
@@ -3591,7 +3591,7 @@
     "authors": ["Gabe Zichermann", "Chris Cunningham"],
     "categories": ["Web Development"]
 }, {
-    "id": "512",
+    "id": "271",
     "title": "Enterprise OSGi In Action",
     "isbn": "1617290130",
     "pageCount": 0,
@@ -3600,7 +3600,7 @@
     "authors": ["Holly Cummins", "Timothy Ward"],
     "categories": ["others"]
 }, {
-    "id": "513",
+    "id": "272",
     "title": "Ext JS in Action, Second Edition",
     "isbn": "1617290327",
     "pageCount": 0,
@@ -3612,7 +3612,7 @@
     "authors": ["Jesus Garcia", "Grgur Grisogono", "", "Jacob K. Andresen"],
     "categories": ["others"]
 }, {
-    "id": "514",
+    "id": "273",
     "title": "Android in Action, Third Edition",
     "isbn": "1617290505",
     "pageCount": 0,
@@ -3624,7 +3624,7 @@
     "authors": ["W. Frank Ableson", "Robi Sen", "Chris King", "C. Enrique Ortiz"],
     "categories": ["others"]
 }, {
-    "id": "515",
+    "id": "274",
     "title": "Arduino in Action",
     "isbn": "1617290246",
     "pageCount": 300,
@@ -3638,7 +3638,7 @@
     "authors": ["Martin Evans", "Joshua Noble", "", "Jordan Hochenbaum"],
     "categories": ["others"]
 }, {
-    "id": "516",
+    "id": "275",
     "title": "Node.js in Action",
     "isbn": "1617290572",
     "pageCount": 300,
@@ -3652,7 +3652,7 @@
     "authors": ["Mike Cantelon", "Marc Harter", "T.J. Holowaychuk", "", "Nathan Rajlich"],
     "categories": ["Web Development"]
 }, {
-    "id": "517",
+    "id": "276",
     "title": "Third-Party JavaScript ",
     "isbn": "1617290548",
     "pageCount": 0,
@@ -3664,7 +3664,7 @@
     "authors": ["Ben Vinegar", "Anton Kovalyov"],
     "categories": ["others"]
 }, {
-    "id": "519",
+    "id": "277",
     "title": "Multimedia Computing",
     "isbn": "020152029X",
     "pageCount": 0,
@@ -3675,7 +3675,7 @@
     "authors": ["Matthew E. Hodges"],
     "categories": ["others"]
 }, {
-    "id": "520",
+    "id": "278",
     "title": "Web Development with JavaServer Pages",
     "isbn": "1884777996",
     "pageCount": 0,
@@ -3686,7 +3686,7 @@
     "authors": ["Duane K. Fields", "Mark A. Kolb"],
     "categories": ["others"]
 }, {
-    "id": "521",
+    "id": "279",
     "title": "Up to Speed with Swing",
     "isbn": "1884777643",
     "pageCount": 0,
@@ -3697,7 +3697,7 @@
     "authors": ["Steven J. Gutz"],
     "categories": ["others"]
 }, {
-    "id": "522",
+    "id": "280",
     "title": "Manager's Guide to Open Source",
     "isbn": "193239429X",
     "pageCount": 0,
@@ -3708,7 +3708,7 @@
     "authors": ["Maria Winslow"],
     "categories": ["others"]
 }, {
-    "id": "523",
+    "id": "281",
     "title": "Programming Web Services with Java",
     "isbn": "1930110421",
     "pageCount": 0,
@@ -3719,7 +3719,7 @@
     "authors": ["Ajamu A. Wesley"],
     "categories": ["others"]
 }, {
-    "id": "525",
+    "id": "282",
     "title": "TCP/IP Programming for OS/2",
     "isbn": "132612496",
     "pageCount": 0,
@@ -3730,7 +3730,7 @@
     "authors": ["Steven J. Gutz"],
     "categories": ["others"]
 }, {
-    "id": "530",
+    "id": "283",
     "title": "Implementing SAP R/3, Second Edition",
     "isbn": "013889213X",
     "pageCount": 0,
@@ -3741,7 +3741,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "531",
+    "id": "284",
     "title": "Implementing SAP R/3",
     "isbn": "1884777228",
     "pageCount": 0,
@@ -3752,7 +3752,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "532",
+    "id": "285",
     "title": "Using C-Kermit: Communication Software",
     "isbn": "1884777147",
     "pageCount": 0,
@@ -3760,7 +3760,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "533",
+    "id": "286",
     "title": "SCWCD Exam Study Kit",
     "isbn": "1930110596",
     "pageCount": 0,
@@ -3771,7 +3771,7 @@
     "authors": ["Hanumant Deshmukh", "Jignesh Malavia"],
     "categories": ["others"]
 }, {
-    "id": "549",
+    "id": "287",
     "title": "Unit Testing in C++",
     "isbn": "1617290386",
     "pageCount": 0,
@@ -3779,7 +3779,7 @@
     "authors": ["Bruce Trask", "Angel Roman"],
     "categories": ["others"]
 }, {
-    "id": "550",
+    "id": "288",
     "title": "Big Data",
     "isbn": "1617290343",
     "pageCount": 0,
@@ -3788,7 +3788,7 @@
     "authors": ["Nathan Marz", "James Warren"],
     "categories": ["others"]
 }, {
-    "id": "551",
+    "id": "289",
     "title": "CoffeeScript in Action",
     "isbn": "1617290629",
     "pageCount": 0,
@@ -3800,7 +3800,7 @@
     "authors": ["Patrick Lee"],
     "categories": ["others"]
 }, {
-    "id": "559",
+    "id": "290",
     "title": "SQL Server MVP Deep Dives, Volume 2",
     "isbn": "1617290475",
     "pageCount": 750,
@@ -3812,7 +3812,7 @@
     "authors": ["Kalen Delaney", "Louis Davidson", "Greg Low", "Brad McGehee", "Paul Nielsen", "Paul Randal", "", "Kimberly Tripp"],
     "categories": ["others"]
 }, {
-    "id": "560",
+    "id": "291",
     "title": "HTML5 in Action",
     "isbn": "1617290491",
     "pageCount": 375,
@@ -3826,7 +3826,7 @@
     "authors": ["Rob Crowther", "Joe Lennon", "Ash Blue", "", "Greg Wanish"],
     "categories": ["others"]
 }, {
-    "id": "562",
+    "id": "292",
     "title": "Java Persistence with Hibernate, Second Edition",
     "isbn": "1617290459",
     "pageCount": 0,
@@ -3835,7 +3835,7 @@
     "authors": ["Christian Bauer", "Gavin King", "", "Gary Gregory"],
     "categories": ["others"]
 }, {
-    "id": "566",
+    "id": "293",
     "title": "Hadoop in Practice",
     "isbn": "1617290238",
     "pageCount": 0,
@@ -3847,7 +3847,7 @@
     "authors": ["Alex Holmes"],
     "categories": ["others"]
 }, {
-    "id": "569",
+    "id": "294",
     "title": "HBase in Action",
     "isbn": "1617290521",
     "pageCount": 0,
@@ -3859,7 +3859,7 @@
     "authors": ["Nicholas Dimiduk", "Amandeep Khurana"],
     "categories": ["others"]
 }, {
-    "id": "571",
+    "id": "295",
     "title": "Flex Mobile in Action",
     "isbn": "1617290610",
     "pageCount": 0,
@@ -3871,7 +3871,7 @@
     "authors": ["Jonathan Campos"],
     "categories": ["others"]
 }, {
-    "id": "577",
+    "id": "296",
     "title": "HTML5 for .NET Developers",
     "isbn": "1617290432",
     "pageCount": 0,
@@ -3883,7 +3883,7 @@
     "authors": ["Jim Jackson", "II", "Ian Gilman"],
     "categories": ["others"]
 }, {
-    "id": "580",
+    "id": "297",
     "title": "50 Android Hacks",
     "isbn": "1617290564",
     "pageCount": 0,
@@ -3895,7 +3895,7 @@
     "authors": ["Carlos M. Sessa"],
     "categories": ["others"]
 }, {
-    "id": "591",
+    "id": "298",
     "title": "PowerShell in Depth",
     "isbn": "1617290556",
     "pageCount": 0,
@@ -3907,7 +3907,7 @@
     "authors": ["Don Jones", "Richard Siddaway", "", "Jeffery Hicks"],
     "categories": ["others"]
 }, {
-    "id": "599",
+    "id": "299",
     "title": "Augmented Reality Revealed",
     "isbn": "1617290165",
     "pageCount": 0,
@@ -3915,7 +3915,7 @@
     "authors": ["Robert A. Rice Jr."],
     "categories": ["others"]
 }, {
-    "id": "607",
+    "id": "300",
     "title": "Building Well-Structured JavaScript Applications",
     "isbn": "1617290599",
     "pageCount": 0,
@@ -3923,7 +3923,7 @@
     "authors": ["Julio C. Ody"],
     "categories": ["others"]
 }, {
-    "id": "611",
+    "id": "301",
     "title": "Linked Data",
     "isbn": "1617290394",
     "pageCount": 0,
@@ -3935,7 +3935,7 @@
     "authors": ["David Wood", "Marsha Zaidman", "Luke Ruth", "with Michael Hausenblas"],
     "categories": ["others"]
 }, {
-    "id": "620",
+    "id": "302",
     "title": "Mule in Action, Second Edition",
     "isbn": "1617290823",
     "pageCount": 0,
@@ -3947,7 +3947,7 @@
     "authors": ["David Dossot", "John D'Emic", "", "Victor Romero"],
     "categories": ["others"]
 }, {
-    "id": "624",
+    "id": "303",
     "title": "Single Page Web Applications",
     "isbn": "1617290750",
     "pageCount": 0,
@@ -3959,7 +3959,7 @@
     "authors": ["Michael S. Mikowski", "Josh C. Powell"],
     "categories": ["others"]
 }, {
-    "id": "628",
+    "id": "304",
     "title": "The Art of Unit Testing, Second Edition",
     "isbn": "1617290890",
     "pageCount": 0,
@@ -3971,7 +3971,7 @@
     "authors": ["Roy Osherove"],
     "categories": ["others"]
 }, {
-    "id": "629",
+    "id": "305",
     "title": "Play for Java",
     "isbn": "1617290904",
     "pageCount": 0,
@@ -3983,7 +3983,7 @@
     "authors": ["Nicolas Leroux", "Sietse de Kaper"],
     "categories": ["others"]
 }, {
-    "id": "631",
+    "id": "306",
     "title": "Hello World! Second Edition",
     "isbn": "1617290920",
     "pageCount": 0,
@@ -3995,7 +3995,7 @@
     "authors": ["Warren Sande", "Carter Sande"],
     "categories": ["others"]
 }, {
-    "id": "632",
+    "id": "307",
     "title": "Dart in Action",
     "isbn": "1617290866",
     "pageCount": 0,
@@ -4007,7 +4007,7 @@
     "authors": ["Chris Buckett"],
     "categories": ["others"]
 }, {
-    "id": "634",
+    "id": "308",
     "title": "Redis in Action",
     "isbn": "1617290858",
     "pageCount": 0,
@@ -4019,7 +4019,7 @@
     "authors": ["Josiah Carlson"],
     "categories": ["others"]
 }, {
-    "id": "636",
+    "id": "309",
     "title": "Using the TI-83 Plus/TI-84 Plus",
     "isbn": "161729084X",
     "pageCount": 0,
@@ -4031,7 +4031,7 @@
     "authors": ["Christopher R. Mitchell"],
     "categories": ["others"]
 }, {
-    "id": "637",
+    "id": "310",
     "title": "Neo4j in Action",
     "isbn": "1617290769",
     "pageCount": 0,
@@ -4040,7 +4040,7 @@
     "authors": ["Jonas Partner", "Aleksa Vukotic", "", "Nicki Watt"],
     "categories": ["others"]
 }, {
-    "id": "639",
+    "id": "311",
     "title": "Programming the TI-83 Plus/TI-84 Plus",
     "isbn": "1617290777",
     "pageCount": 0,
@@ -4052,7 +4052,7 @@
     "authors": ["Christopher R. Mitchell"],
     "categories": ["others"]
 }, {
-    "id": "640",
+    "id": "312",
     "title": "Functional Programming in Scala",
     "isbn": "1617290653",
     "pageCount": 0,
@@ -4061,7 +4061,7 @@
     "authors": ["Paul Chiusano", "Rúnar Bjarnason"],
     "categories": ["others"]
 }, {
-    "id": "641",
+    "id": "313",
     "title": "Play for Scala",
     "isbn": "1617290793",
     "pageCount": 0,
@@ -4073,7 +4073,7 @@
     "authors": ["Peter Hilton", "Erik Bakker", "", "Francisco Canedo"],
     "categories": ["others"]
 }, {
-    "id": "642",
+    "id": "314",
     "title": "Node.js in Practice",
     "isbn": "1617290939",
     "pageCount": 0,
@@ -4082,7 +4082,7 @@
     "authors": ["Alex Young", "Marc Harter"],
     "categories": ["others"]
 }, {
-    "id": "643",
+    "id": "315",
     "title": "SonarQube in Action",
     "isbn": "1617290955",
     "pageCount": 0,
@@ -4094,7 +4094,7 @@
     "authors": ["G. Ann Campbell", "Patroklos P. Papapetrou"],
     "categories": ["others"]
 }, {
-    "id": "644",
+    "id": "316",
     "title": "Windows Store App Development: C# and XAML",
     "isbn": "1617290947",
     "pageCount": 0,
@@ -4106,7 +4106,7 @@
     "authors": ["Peter M. Brown"],
     "categories": ["others"]
 }, {
-    "id": "645",
+    "id": "317",
     "title": "Learn Windows IIS in a Month of Lunches",
     "isbn": "1617290971",
     "pageCount": 0,
@@ -4118,7 +4118,7 @@
     "authors": ["Jason C. Helmick"],
     "categories": ["others"]
 }, {
-    "id": "646",
+    "id": "318",
     "title": "Mondrian in Action",
     "isbn": "161729098X",
     "pageCount": 0,
@@ -4127,7 +4127,7 @@
     "authors": ["William Back", "Nicholas Goodman", "", "Julian Hyde"],
     "categories": ["others"]
 }, {
-    "id": "648",
+    "id": "319",
     "title": "RabbitMQ in Depth",
     "isbn": "1617291005",
     "pageCount": 0,
@@ -4136,7 +4136,7 @@
     "authors": ["Gavin M. Roy"],
     "categories": ["others"]
 }, {
-    "id": "649",
+    "id": "320",
     "title": "Akka in Action",
     "isbn": "1617291013",
     "pageCount": 0,
@@ -4145,7 +4145,7 @@
     "authors": ["Raymond Roestenburg", "Rob Bakker", "Rob Williams", "Steven Haines"],
     "categories": ["others"]
 }, {
-    "id": "650",
+    "id": "321",
     "title": "Extending jQuery",
     "isbn": "161729103X",
     "pageCount": 0,
@@ -4157,7 +4157,7 @@
     "authors": ["Keith B. Wood"],
     "categories": ["others"]
 }, {
-    "id": "651",
+    "id": "322",
     "title": "OCA Java SE 7 Programmer I Certification Guide",
     "isbn": "1617291048",
     "pageCount": 0,
@@ -4169,7 +4169,7 @@
     "authors": ["Mala Gupta"],
     "categories": ["others"]
 }, {
-    "id": "652",
+    "id": "323",
     "title": "Kanban in Action",
     "isbn": "1617291056",
     "pageCount": 0,
@@ -4181,7 +4181,7 @@
     "authors": ["Marcus Hammarberg", "Joakim Sunden"],
     "categories": ["others"]
 }, {
-    "id": "653",
+    "id": "324",
     "title": "Solr in Action",
     "isbn": "1617291021",
     "pageCount": 0,
@@ -4193,7 +4193,7 @@
     "authors": ["Trey Grainger", "Timothy Potter"],
     "categories": ["others"]
 }, {
-    "id": "655",
+    "id": "325",
     "title": "Making Sense of NoSQL",
     "isbn": "1617291072",
     "pageCount": 0,
@@ -4205,7 +4205,7 @@
     "authors": ["Daniel G. McCreary", "Ann M. Kelly"],
     "categories": ["others"]
 }, {
-    "id": "656",
+    "id": "326",
     "title": "Jaguar Development with PowerBuilder 7",
     "isbn": "1884777864",
     "pageCount": 0,
@@ -4216,7 +4216,7 @@
     "authors": ["MIchael Barlotta"],
     "categories": ["others"]
 }, {
-    "id": "657",
+    "id": "327",
     "title": "Grails in Action, Second Edition",
     "isbn": "1617290963",
     "pageCount": 0,
@@ -4225,7 +4225,7 @@
     "authors": ["Glen Smith", "Peter Ledbrook"],
     "categories": ["others"]
 }, {
-    "id": "658",
+    "id": "328",
     "title": "Rails 4 in Action",
     "isbn": "1617291099",
     "pageCount": 0,
@@ -4234,7 +4234,7 @@
     "authors": ["Ryan Bigg", "Yehuda Katz", "and Steve Klabnik", ""],
     "categories": ["others"]
 }, {
-    "id": "659",
+    "id": "329",
     "title": "Learn Windows PowerShell in a Month of Lunches, Second Edition",
     "isbn": "1617291080",
     "pageCount": 0,
@@ -4246,7 +4246,7 @@
     "authors": ["Don Jones", "Jeffery D. Hicks"],
     "categories": ["others"]
 }, {
-    "id": "662",
+    "id": "330",
     "title": "AOP in .NET",
     "isbn": "1617291145",
     "pageCount": 0,
@@ -4258,7 +4258,7 @@
     "authors": ["Matthew D. Groves"],
     "categories": ["others"]
 }, {
-    "id": "663",
+    "id": "331",
     "title": "Learn PowerShell Toolmaking in a Month of Lunches",
     "isbn": "1617291161",
     "pageCount": 0,
@@ -4270,7 +4270,7 @@
     "authors": ["Don Jones", "Jeffery Hicks"],
     "categories": ["others"]
 }, {
-    "id": "664",
+    "id": "332",
     "title": "CMIS and Apache Chemistry in Action",
     "isbn": "1617291153",
     "pageCount": 0,
@@ -4279,7 +4279,7 @@
     "authors": ["Florian Müller", "Jay Brown", "Jeff Potts"],
     "categories": ["others"]
 }, {
-    "id": "667",
+    "id": "333",
     "title": "Action Guide (aka VB .NET)",
     "isbn": "1930110324",
     "pageCount": 0,
@@ -4287,7 +4287,7 @@
     "authors": ["Paul Messick"],
     "categories": ["others"]
 }, {
-    "id": "670",
+    "id": "334",
     "title": "Learn Active Directory Management in a Month of Lunches",
     "isbn": "1617291196",
     "pageCount": 0,
@@ -4296,7 +4296,7 @@
     "authors": ["Richard Siddaway"],
     "categories": ["others"]
 }, {
-    "id": "671",
+    "id": "335",
     "title": "Spring in Action, Fourth Edition",
     "isbn": "161729120X",
     "pageCount": 0,
@@ -4305,7 +4305,7 @@
     "authors": ["Craig Walls"],
     "categories": ["others"]
 }, {
-    "id": "672",
+    "id": "336",
     "title": "The Mikado Method",
     "isbn": "1617291218",
     "pageCount": 0,
@@ -4317,7 +4317,7 @@
     "authors": ["Ola Ellnestam", "Daniel Brolund"],
     "categories": ["others"]
 }, {
-    "id": "676",
+    "id": "337",
     "title": "The Responsive Web",
     "isbn": "1617291242",
     "pageCount": 0,
@@ -4326,7 +4326,7 @@
     "authors": ["Matthew Carver"],
     "categories": ["others"]
 }, {
-    "id": "677",
+    "id": "338",
     "title": "Fast ASP.NET Websites",
     "isbn": "1617291250",
     "pageCount": 0,
@@ -4338,7 +4338,7 @@
     "authors": ["Dean Alan Hume"],
     "categories": ["others"]
 }, {
-    "id": "678",
+    "id": "339",
     "title": "SBT in Action",
     "isbn": "1617291277",
     "pageCount": 0,
@@ -4347,7 +4347,7 @@
     "authors": ["Joshua Suereth", "Matthew Farwell"],
     "categories": ["others"]
 }, {
-    "id": "679",
+    "id": "340",
     "title": "PowerShell Deep Dives",
     "isbn": "1617291315",
     "pageCount": 0,
@@ -4356,7 +4356,7 @@
     "authors": ["Edited by Jeffery Hicks", "Richard Siddaway", "Oisin Grehan", "", "Aleksandar Nikolic"],
     "categories": ["others"]
 }, {
-    "id": "680",
+    "id": "341",
     "title": "Gradle in Action",
     "isbn": "1617291307",
     "pageCount": 0,
@@ -4368,7 +4368,7 @@
     "authors": ["Benjamin Muschko"],
     "categories": ["others"]
 }, {
-    "id": "681",
+    "id": "342",
     "title": "Scalatra in Action",
     "isbn": "1617291293",
     "pageCount": 0,
@@ -4377,7 +4377,7 @@
     "authors": ["Ivan Porto Carrero", "Ross A. Baker", "Dave Hrycyszyn", "Stefan Ollinger", "", "Jared Armstrong"],
     "categories": ["others"]
 }, {
-    "id": "683",
+    "id": "343",
     "title": "AngularJS in Action",
     "isbn": "1617291331",
     "pageCount": 0,
@@ -4386,7 +4386,7 @@
     "authors": ["Brian Ford", "Lukas Ruebbelke"],
     "categories": ["others"]
 }, {
-    "id": "684",
+    "id": "344",
     "title": "Software Development Metrics",
     "isbn": "1617291358",
     "pageCount": 0,
@@ -4395,7 +4395,7 @@
     "authors": ["David Nicolette"],
     "categories": ["others"]
 }, {
-    "id": "685",
+    "id": "345",
     "title": "F# Deep Dives",
     "isbn": "1617291323",
     "pageCount": 0,
@@ -4404,7 +4404,7 @@
     "authors": ["Tomas Petricek", "Phillip Trelford"],
     "categories": ["others"]
 }, {
-    "id": "686",
+    "id": "346",
     "title": "C# in Depth, Third Edition",
     "isbn": "161729134X",
     "pageCount": 0,
@@ -4416,7 +4416,7 @@
     "authors": ["Jon Skeet"],
     "categories": ["others"]
 }, {
-    "id": "688",
+    "id": "347",
     "title": "PostGIS in Action, Second Edition",
     "isbn": "1617291390",
     "pageCount": 0,
@@ -4425,7 +4425,7 @@
     "authors": ["Regina Obe", "Leo Hsu"],
     "categories": ["others"]
 }, {
-    "id": "689",
+    "id": "348",
     "title": "R in Action, Second Edition",
     "isbn": "1617291382",
     "pageCount": 0,
@@ -4434,7 +4434,7 @@
     "authors": ["Robert Kabacoff"],
     "categories": ["others"]
 }, {
-    "id": "691",
+    "id": "349",
     "title": "The Joy of Clojure, Second Edition",
     "isbn": "1617291412",
     "pageCount": 0,
@@ -4446,7 +4446,7 @@
     "authors": ["Michael Fogus", "Chris Houser"],
     "categories": ["others"]
 }, {
-    "id": "692",
+    "id": "350",
     "title": "iOS 7 in Action",
     "isbn": "1617291420",
     "pageCount": 0,
@@ -4458,7 +4458,7 @@
     "authors": ["Brendan G. Lim", "Martin Conte Mac Donell"],
     "categories": ["others"]
 }, {
-    "id": "693",
+    "id": "351",
     "title": "Hello App Inventor!",
     "isbn": "1617291439",
     "pageCount": 0,
@@ -4467,7 +4467,7 @@
     "authors": ["Paula Beer", "Carl Simmons"],
     "categories": ["others"]
 }, {
-    "id": "696",
+    "id": "352",
     "title": "Ember.js in Action",
     "isbn": "1617291455",
     "pageCount": 0,
@@ -4479,7 +4479,7 @@
     "authors": ["Joachim Haagen Skeie"],
     "categories": ["others"]
 }, {
-    "id": "697",
+    "id": "353",
     "title": "Netty in Action",
     "isbn": "1617291471",
     "pageCount": 0,
@@ -4488,7 +4488,7 @@
     "authors": ["Norman Maurer", "Courtney Robinson"],
     "categories": ["others"]
 }, {
-    "id": "699",
+    "id": "354",
     "title": "RavenDB in Action",
     "isbn": "1617291501",
     "pageCount": 0,
@@ -4497,7 +4497,7 @@
     "authors": ["Itamar Syn-Hershko"],
     "categories": ["others"]
 }, {
-    "id": "700",
+    "id": "355",
     "title": "OCP Java SE 7 Programmer II Certification Guide",
     "isbn": "161729148X",
     "pageCount": 0,
@@ -4506,7 +4506,7 @@
     "authors": ["Mala Gupta"],
     "categories": ["others"]
 }, {
-    "id": "702",
+    "id": "356",
     "title": "Backbone.js in Action",
     "isbn": "1617291536",
     "pageCount": 0,
@@ -4515,7 +4515,7 @@
     "authors": ["Samuel M. Breed", "Cole Krumbholz", "", "Phillip Whisenhunt"],
     "categories": ["others"]
 }, {
-    "id": "703",
+    "id": "357",
     "title": "Clojure in Action, Second Edition",
     "isbn": "1617291528",
     "pageCount": 0,
@@ -4524,7 +4524,7 @@
     "authors": ["Amit Rathore"],
     "categories": ["others"]
 }, {
-    "id": "706",
+    "id": "358",
     "title": "Practical Data Science with R",
     "isbn": "1617291560",
     "pageCount": 0,
@@ -4536,14 +4536,14 @@
     "authors": ["Nina Zumel", "John Mount"],
     "categories": ["others"]
 }, {
-    "id": "707",
+    "id": "359",
     "title": "Secrets of the JavaScript Ninja pBook upgrade",
     "pageCount": 0,
     "status": "PUBLISH",
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "711",
+    "id": "360",
     "title": "ArcGIS Web Development",
     "isbn": "1617291617",
     "pageCount": 0,
@@ -4552,7 +4552,7 @@
     "authors": ["Rene Rubalcava"],
     "categories": ["others"]
 }, {
-    "id": "712",
+    "id": "361",
     "title": "Elasticsearch in Action",
     "isbn": "1617291625",
     "pageCount": 0,
@@ -4561,7 +4561,7 @@
     "authors": ["Radu Gheorghe", "Matthew Lee Hinman"],
     "categories": ["others"]
 }, {
-    "id": "716",
+    "id": "362",
     "title": "Learn SCCM 2012 in a Month of Lunches",
     "isbn": "1617291684",
     "pageCount": 0,
@@ -4570,7 +4570,7 @@
     "authors": ["James Bannan"],
     "categories": ["others"]
 }, {
-    "id": "717",
+    "id": "363",
     "title": "Programming for Musicians and Digital Artists",
     "isbn": "1617291706",
     "pageCount": 0,
@@ -4579,7 +4579,7 @@
     "authors": ["Ajay Kapur", "Perry Cook", "Spencer Salazar", "", "Ge Wang"],
     "categories": ["others"]
 }, {
-    "id": "719",
+    "id": "364",
     "title": "BDD in Action",
     "isbn": "161729165X",
     "pageCount": 0,
@@ -4588,7 +4588,7 @@
     "authors": ["John F. Smart"],
     "categories": ["others"]
 }, {
-    "id": "723",
+    "id": "365",
     "title": "Windows Phone 8 in Action",
     "isbn": "1617291374",
     "pageCount": 0,
@@ -4600,7 +4600,7 @@
     "authors": ["Timothy Binkley-Jones", "Massimo Perga", "Michael Sync", "Adam Benoit"],
     "categories": ["others"]
 }, {
-    "id": "724",
+    "id": "366",
     "title": "Titanium Alloy in Action",
     "isbn": "1617291749",
     "pageCount": 0,
@@ -4609,7 +4609,7 @@
     "authors": ["Ricardo Alcocer"],
     "categories": ["others"]
 }, {
-    "id": "727",
+    "id": "367",
     "title": "Giraph in Action",
     "isbn": "1617291757",
     "pageCount": 0,
@@ -4618,7 +4618,7 @@
     "authors": ["Claudio Martella", "Roman Shaposhnik", "", "Dionysios Logothetis"],
     "categories": ["others"]
 }, {
-    "id": "728",
+    "id": "368",
     "title": "The Well-Grounded Rubyist, Second Edition",
     "isbn": "1617291692",
     "pageCount": 0,
@@ -4630,7 +4630,7 @@
     "authors": ["David A. Black"],
     "categories": ["others"]
 }, {
-    "id": "729",
+    "id": "369",
     "title": "Go in Action",
     "isbn": "1617291781",
     "pageCount": 0,
@@ -4639,7 +4639,7 @@
     "authors": ["Brian Ketelsen", "Erik St. Martin", "", "William Kennedy"],
     "categories": ["others"]
 }, {
-    "id": "731",
+    "id": "370",
     "title": "The Programmer's Guide to Apache Thrift ",
     "isbn": "1617291811",
     "pageCount": 0,
@@ -4648,7 +4648,7 @@
     "authors": ["Randy Abernethy"],
     "categories": ["others"]
 }, {
-    "id": "732",
+    "id": "371",
     "title": "Grokking Functional Programming",
     "isbn": "1617291838",
     "pageCount": 0,
@@ -4657,7 +4657,7 @@
     "authors": ["Aslam Khan"],
     "categories": ["others"]
 }, {
-    "id": "733",
+    "id": "372",
     "title": "CORS in Action",
     "isbn": "161729182X",
     "pageCount": 0,
@@ -4666,7 +4666,7 @@
     "authors": ["Monsur Hossain"],
     "categories": ["others"]
 }, {
-    "id": "736",
+    "id": "373",
     "title": "Reactive Design Patterns",
     "isbn": "1617291803",
     "pageCount": 0,
@@ -4675,7 +4675,7 @@
     "authors": ["Roland Kuhn", "Jamie Allen"],
     "categories": ["others"]
 }, {
-    "id": "740",
+    "id": "374",
     "title": "Storm Applied",
     "isbn": "1617291897",
     "pageCount": 0,
@@ -4684,7 +4684,7 @@
     "authors": ["Sean Allen", "Peter Pathirana", "", "Matthew Jankowski"],
     "categories": ["others"]
 }, {
-    "id": "743",
+    "id": "375",
     "title": "Real-World Machine Learning",
     "isbn": "1617291927",
     "pageCount": 0,
@@ -4693,7 +4693,7 @@
     "authors": ["Henrik Brink", "Joseph Richards"],
     "categories": ["others"]
 }, {
-    "id": "744",
+    "id": "376",
     "title": "jQuery UI in Action",
     "isbn": "1617291935",
     "pageCount": 0,
@@ -4702,7 +4702,7 @@
     "authors": ["Theodore J. (T.J.) VanToll III"],
     "categories": ["others"]
 }, {
-    "id": "746",
+    "id": "377",
     "title": "Web Components in Action",
     "isbn": "1617291943",
     "pageCount": 0,
@@ -4711,7 +4711,7 @@
     "authors": ["Chris Buckett"],
     "categories": ["others"]
 }, {
-    "id": "748",
+    "id": "378",
     "title": "JavaScript Application Design",
     "isbn": "1617291951",
     "pageCount": 0,
@@ -4720,7 +4720,7 @@
     "authors": ["Nicolas G. Bevacqua"],
     "categories": ["others"]
 }, {
-    "id": "749",
+    "id": "379",
     "title": "Git in Practice",
     "isbn": "1617291978",
     "pageCount": 0,
@@ -4729,7 +4729,7 @@
     "authors": ["Mike McQuaid"],
     "categories": ["others"]
 }, {
-    "id": "750",
+    "id": "380",
     "title": "Impala in Action",
     "isbn": "1617291986",
     "pageCount": 0,
@@ -4738,7 +4738,7 @@
     "authors": ["Richard L. Saltzer", "Istvan Szegedi"],
     "categories": ["others"]
 }, {
-    "id": "751",
+    "id": "381",
     "title": "Java 8 in Action",
     "isbn": "1617291994",
     "pageCount": 0,
@@ -4747,7 +4747,7 @@
     "authors": ["Raoul-Gabriel Urma", "Mario Fusco", "", "Alan Mycroft"],
     "categories": ["others"]
 }, {
-    "id": "753",
+    "id": "382",
     "title": "Elixir in Action",
     "isbn": "161729201X",
     "pageCount": 0,
@@ -4756,7 +4756,7 @@
     "authors": ["Saša Juric´"],
     "categories": ["others"]
 }, {
-    "id": "755",
+    "id": "383",
     "title": "MongoDB in Action, Second Edition",
     "isbn": "1617291609",
     "pageCount": 0,
@@ -4765,7 +4765,7 @@
     "authors": ["Kyle Banker", "Peter Bakkum", "Tim Hawkins", "Shaun Verch", "", "Douglas Garrett"],
     "categories": ["others"]
 }, {
-    "id": "757",
+    "id": "384",
     "title": "Getting MEAN with Mongo, Express, Angular, and Node",
     "isbn": "1617292036",
     "pageCount": 0,
@@ -4774,7 +4774,7 @@
     "authors": ["Simon Holmes"],
     "categories": ["others"]
 }, {
-    "id": "761",
+    "id": "385",
     "title": "jQuery in Action, Third Edition",
     "isbn": "1617292079",
     "pageCount": 0,
@@ -4783,7 +4783,7 @@
     "authors": ["Bear Bibeault", "Yehuda Katz", "", "Aurelio De Rosa"],
     "categories": ["others"]
 }, {
-    "id": "764",
+    "id": "386",
     "title": "D3.js in Action",
     "isbn": "1617292117",
     "pageCount": 0,
@@ -4792,7 +4792,7 @@
     "authors": ["Elijah Meeks"],
     "categories": ["others"]
 }, {
-    "id": "765",
+    "id": "387",
     "title": "Learn SQL Server Administration in a Month of Lunches",
     "isbn": "1617292133",
     "pageCount": 0,
@@ -4804,7 +4804,7 @@
     "authors": ["Don Jones"],
     "categories": ["others"]
 }, {
-    "id": "766",
+    "id": "388",
     "title": "Geoprocessing with Python",
     "isbn": "1617292141",
     "pageCount": 0,
@@ -4813,7 +4813,7 @@
     "authors": ["Chris Garrard"],
     "categories": ["others"]
 }, {
-    "id": "767",
+    "id": "389",
     "title": "Barcodes with iOS",
     "isbn": "161729215X",
     "pageCount": 0,
@@ -4822,7 +4822,7 @@
     "authors": ["Oliver Drobnik"],
     "categories": ["others"]
 }, {
-    "id": "771",
+    "id": "390",
     "title": "Chef in Action",
     "isbn": "1617292214",
     "pageCount": 0,
@@ -4831,7 +4831,7 @@
     "authors": ["Dimitri Aivaliotis"],
     "categories": ["others"]
 }, {
-    "id": "772",
+    "id": "391",
     "title": "Hadoop in Practice, Second Edition",
     "isbn": "1617292222",
     "pageCount": 0,
@@ -4840,7 +4840,7 @@
     "authors": ["Alex Holmes"],
     "categories": ["others"]
 }, {
-    "id": "774",
+    "id": "392",
     "title": "Oculus Rift in Action",
     "isbn": "1617292192",
     "pageCount": 0,
@@ -4849,7 +4849,7 @@
     "authors": ["Bradley Austin Davis", "Karen Bryla", "", "Alex Benton"],
     "categories": ["others"]
 }, {
-    "id": "776",
+    "id": "393",
     "title": "OpenStack in Action",
     "isbn": "1617292168",
     "pageCount": 0,
@@ -4858,7 +4858,7 @@
     "authors": ["Cody Bumgardner"],
     "categories": ["others"]
 }, {
-    "id": "777",
+    "id": "394",
     "title": "PowerShell in Depth, Second Edition",
     "isbn": "1617292184",
     "pageCount": 0,
@@ -4867,7 +4867,7 @@
     "authors": ["Don Jones", "Jeffery Hicks", "", "Richard Siddaway"],
     "categories": ["others"]
 }, {
-    "id": "785",
+    "id": "395",
     "title": "Practical Probabilistic Programming",
     "isbn": "1617292338",
     "pageCount": 0,
@@ -4876,7 +4876,7 @@
     "authors": ["Avi Pfeffer"],
     "categories": ["others"]
 }, {
-    "id": "786",
+    "id": "396",
     "title": "Unity in Action",
     "isbn": "161729232X",
     "pageCount": 0,
@@ -4885,7 +4885,7 @@
     "authors": ["Joseph Hocking"],
     "categories": ["others"]
 }, {
-    "id": "794",
+    "id": "397",
     "title": "Express.js in Action",
     "isbn": "1617292427",
     "pageCount": 0,
@@ -4894,7 +4894,7 @@
     "authors": ["Evan M. Hahn"],
     "categories": ["others"]
 }, {
-    "id": "795",
+    "id": "398",
     "title": "Learn Git in a Month of Lunches",
     "isbn": "1617292419",
     "pageCount": 0,
@@ -4903,7 +4903,7 @@
     "authors": ["Rick Umali"],
     "categories": ["others"]
 }, {
-    "id": "796",
+    "id": "399",
     "title": "Understanding SPAs",
     "isbn": "1617292435",
     "pageCount": 0,
@@ -4912,7 +4912,7 @@
     "authors": ["Emmit A. Scott", "Jr."],
     "categories": ["others"]
 }, {
-    "id": "797",
+    "id": "400",
     "title": "XSLT Quickly",
     "isbn": "1930110111",
     "pageCount": 320,
@@ -4925,7 +4925,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "798",
+    "id": "401",
     "title": "Windows Forms Programming with C#",
     "isbn": "1930110286",
     "pageCount": 752,
@@ -4938,7 +4938,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "799",
+    "id": "402",
     "title": "Windows Forms in Action",
     "isbn": "1932394656",
     "pageCount": 950,
@@ -4951,7 +4951,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "800",
+    "id": "403",
     "title": "Event Processing in Action",
     "isbn": "1935182218",
     "pageCount": 384,
@@ -4965,7 +4965,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "801",
+    "id": "404",
     "title": "The Well-Grounded Java Developer",
     "isbn": "1617290068",
     "pageCount": 0,
@@ -4979,7 +4979,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "802",
+    "id": "405",
     "title": "Objective-C Fundamentals",
     "isbn": "1935182536",
     "pageCount": 355,
@@ -4993,7 +4993,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "803",
+    "id": "406",
     "title": "ADO.NET Programming",
     "isbn": "1930110294",
     "pageCount": 592,
@@ -5007,7 +5007,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "804",
+    "id": "407",
     "title": "WPF in Action with Visual Studio 2008",
     "isbn": "1933988223",
     "pageCount": 520,
@@ -5020,7 +5020,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "805",
+    "id": "408",
     "title": "Location-Aware Applications",
     "isbn": "1935182331",
     "pageCount": 320,
@@ -5032,7 +5032,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "797",
+    "id": "409",
     "title": "Web Development with JavaServer Pages, Second Edition",
     "isbn": "193011012X",
     "pageCount": 800,
@@ -5045,7 +5045,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "806",
+    "id": "410",
     "title": "IntelliJ IDEA in Action",
     "isbn": "1932394443",
     "pageCount": 450,
@@ -5059,7 +5059,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "807",
+    "id": "411",
     "title": "Spring Integration in Action",
     "isbn": "1935182439",
     "pageCount": 400,
@@ -5073,7 +5073,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "808",
+    "id": "412",
     "title": "The Joy of Clojure",
     "isbn": "1935182641",
     "pageCount": 360,
@@ -5087,7 +5087,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "809",
+    "id": "413",
     "title": "Dynamic WAP Application Development",
     "isbn": "1930110081",
     "pageCount": 888,
@@ -5100,7 +5100,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "810",
+    "id": "414",
     "title": "IronPython in Action",
     "isbn": "1933988339",
     "pageCount": 496,
@@ -5113,7 +5113,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "811",
+    "id": "415",
     "title": "Art of Java Web Development",
     "isbn": "1932394060",
     "pageCount": 624,
@@ -5126,7 +5126,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "812",
+    "id": "416",
     "title": "Java Reflection in Action",
     "isbn": "1932394184",
     "pageCount": 300,
@@ -5139,7 +5139,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "813",
+    "id": "417",
     "title": "Programming Windows Server 2003",
     "isbn": "1930110987",
     "pageCount": 328,
@@ -5152,7 +5152,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "814",
+    "id": "418",
     "title": "Struts Recipes",
     "isbn": "1932394249",
     "pageCount": 520,
@@ -5165,7 +5165,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "815",
+    "id": "419",
     "title": "Hello! iOS Development",
     "isbn": "1935182986",
     "pageCount": 0,
@@ -5177,7 +5177,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "816",
+    "id": "420",
     "title": "Jess in Action",
     "isbn": "1930110898",
     "pageCount": 480,
@@ -5191,7 +5191,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "817",
+    "id": "421",
     "title": "Remote LAN Access",
     "isbn": "134944518",
     "pageCount": 300,
@@ -5205,7 +5205,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "818",
+    "id": "422",
     "title": "J2EE and XML Development",
     "isbn": "1930110308",
     "pageCount": 304,
@@ -5218,7 +5218,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "819",
+    "id": "423",
     "title": "Eclipse in Action",
     "isbn": "1930110960",
     "pageCount": 416,
@@ -5232,7 +5232,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "820",
+    "id": "424",
     "title": "ASP.NET AJAX in Action",
     "isbn": "1933988142",
     "pageCount": 570,
@@ -5245,7 +5245,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "821",
+    "id": "425",
     "title": "Ext JS in Action",
     "isbn": "1935182110",
     "pageCount": 425,
@@ -5259,7 +5259,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "822",
+    "id": "426",
     "title": "Sencha Touch in Action",
     "isbn": "1617290378",
     "pageCount": 375,
@@ -5273,7 +5273,7 @@
     "authors": ["Anonime"],
     "categories": ["others"]
 }, {
-    "id": "823",
+    "id": "427",
     "title": "DSLs in Action",
     "isbn": "1935182455",
     "pageCount": 376,
