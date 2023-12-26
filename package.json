@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "node --watch 1https.js",
-    "start": "node apiBoocks.js"
+    "dev": "node --watch app.js",
+    "start": "node web/app.js"
   },
   "keywords": [],
   "author": "",

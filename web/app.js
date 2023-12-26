@@ -1,7 +1,7 @@
 import express, { json } from 'express'
 import { randomUUID } from 'node:crypto'
-import boocks from "./api/books.json" with { "type": "json" }
-import { validateBoock, validatePartialBoock } from './boocks.js'
+import  videoGames  from "../api/db/games.json" with { "type": "json" }
+import { validateBoock, validatePartialBoock } from './videoGames.js'
 
 const app = express()
 
@@ -12,26 +12,26 @@ app.get('/', (req, res) => {
   res.send('<h1>Welcome!</h1>')
 })
 
-app.get('/boocks', (req, res) => {
+app.get('/videoGames', (req, res) => {
   const { categor } = req.query
   if (categor) {
-    const filteredBooks = boocks.filter(
+    const filteredBooks = videoGames.filter(
       (boock) => boock.categories.some(g => g.toLocaleLowerCase() === categor.toLocaleLowerCase())
     )
     return res.json(filteredBooks)
   }
-  res.json(boocks)
+  res.json(videoGames)
 })
 
-app.get('/boocks/:id', (req, res) => {
+app.get('/videoGames/:id', (req, res) => {
   const { id } = req.params
-  const boock = boocks.find(boock => boock.id === id)
+  const boock = videoGames.find(boock => boock.id === id)
   if (boock) return res.json(boock)
 
   res.status(404).json({ message: 'boock not found' })
 })
 
-app.post('/boocks', (req, res) => {
+app.post('/videoGames', (req, res) => {
   const result = validateBoock(req.body)
 
   if (result.error) {
@@ -42,29 +42,29 @@ app.post('/boocks', (req, res) => {
     ...result.data
   }
 
-  boocks.push(newBoock)
+  videoGames.push(newBoock)
 
   res.status(201).json(newBoock)
 })
 
-app.patch('/boocks/:id', (req, res) => {
+app.patch('/videoGames/:id', (req, res) => {
   const result = validatePartialBoock(req.body)
 
   if (!result.success) {
     return res.status(400).json({ error: JSON.parse(result.error.message) })
   }
   const { id } = req.params
-  const boockIndex = boocks.findIndex(boock => boock.id === id)
+  const boockIndex = videoGames.findIndex(boock => boock.id === id)
 
   if (boockIndex === -1) {
     return res.status(404).json({ error: 'no se encontro el id' })
   }
   const updateBoock = {
-    ...boocks[boockIndex],
+    ...videoGames[boockIndex],
     ...result.data
   }
 
-  boocks[boockIndex] = updateBoock
+  videoGames[boockIndex] = updateBoock
   return res.json(updateBoock)
 })
 
