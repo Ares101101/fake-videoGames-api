@@ -1,10 +1,10 @@
-GET  http://localhost:1234/boocks
+GET  http://localhost:1234/videoGames
 ###
-GET  http://localhost:1234/boocks/c4dda79e-ed7c-4a2c-81be-df5a32a1741d
+GET  http://localhost:1234/videoGames/1
 ###
-GET  http://localhost:1234/boocks?categor=Networking
+GET  http://localhost:1234/videoGames?categor=Action
 ###
-POST http://localhost:1234/boocks
+POST http://localhost:1234/videoGames
 Content-Type: application/json
 
 {
