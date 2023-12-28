@@ -2,7 +2,7 @@ GET  http://localhost:1234/videoGames
 ###
 GET  http://localhost:1234/videoGames/1
 ###
-GET  http://localhost:1234/videoGames?categor=Action
+GET  http://localhost:1234/videoGames?categor=Family
 ###
 POST http://localhost:1234/videoGames
 Content-Type: application/json
@@ -28,3 +28,4 @@ Content-Type: application/json
     {
         "pageCount":590
     }
+

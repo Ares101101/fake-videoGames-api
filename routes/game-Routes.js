@@ -65,3 +65,4 @@ gamesRouter.patch('/:id',(req, res) => {
     videoGames[GameIndex] = updateGame
     return res.json(updateGame)
 })
+
