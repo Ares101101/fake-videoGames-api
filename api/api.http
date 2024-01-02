@@ -1,6 +1,6 @@
 GET  http://localhost:1234/videoGames
 ###
-GET  http://localhost:1234/videoGames/1
+GET  http://localhost:1234/videoGames/0e67f866-21de-49a9-8a99-414e5c221b8b
 ###
 GET  http://localhost:1234/videoGames?categor=Family
 ###
@@ -8,24 +8,20 @@ POST http://localhost:1234/videoGames
 Content-Type: application/json
 
 {
-    "sql": "SELECT * FROM users",
-    "title": "Codec",
-    "isbn": "193239459870j-e",
-    "pageCount": 80,
-    "publishedDate": {
-        "$date": "2005-03-01T00:00:00.000-0800"
-    },
-    "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal10.jpg",
-    "status": "PUBLISH",
-    "authors": ["anonime"],
-    "categories": ["others"]
+    "title": "ARK: Survival Of The Fittes",
+        "genres": [1, 2, 3, 4, 5, 6],
+        "publisher": 1,
+        "description": "ARK: Survival of the Fittest is a Multiplayer Online Survival Arena (MOSA) game that pits as many as 72 combatants against one another in the struggle for survival in a harsh, changing environment packed with deadly creatures, &#x201C;Evolution Events,&#x201D; and other players.",
+        "developer": 1,
+        "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/407530/header.jpg?t=1567712233"
+   
 }
 ### Actualizar una pelicula 
 
-PATCH  http://localhost:1234/boocks/72
+PATCH  http://localhost:1234/videoGames/d4c65925-f6bf-4506-9436-997baa8dca2f
 Content-Type: application/json
 
     {
-        "pageCount":590
+        "publisher":3
     }
 

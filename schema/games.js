@@ -5,17 +5,11 @@ const gameSchema = z.object({
     invalid_type_error: 'Video game title must be a string',
     required_error: 'Video game title is required'
   }),
-  isbn: z.string(),
-  pageCount: z.number().int().positive(),
-  publishedDate: z.object({ $date: z.string() }),
-  thumbnailUrl: z.string().url({
-    message: 'Posted must be a valid URL'
-  }),
-  shortDescription: z.string().optional(),
-  longDescription: z.string().optional(),
-  status: z.string(),
-  authors: z.array(z.string()),
-  categories: z.array(z.string())
+  genres: z.array(z.number().int().positive()),
+  publisher: z.number().int().positive(),
+  description: z.string(),
+  developer: z.number().int().positive(),
+  coverImage: z.string().url()
 })
 
 export function validateGame (index) {

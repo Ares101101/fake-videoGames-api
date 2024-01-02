@@ -1,6 +1,7 @@
 {
-    "games": [{
-        "id": 1,
+    "games": [
+        {
+        "id":  "56514712-a2d5-44a9-9b28-5bd930b487fe",
         "title": "ARK: Survival Of The Fittest",
         "genres": [1, 2, 3, 4, 5, 6],
         "publisher": 1,
@@ -8,7 +9,7 @@
         "developer": 1,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/407530/header.jpg?t=1567712233"
     }, {
-        "id": 2,
+        "id":  "1e542f4b-6a82-4df5-be82-082aef82963d",
         "title": "Absolver",
         "genres": [1, 2, 3],
         "publisher": 2,
@@ -16,7 +17,7 @@
         "developer": 2,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/473690/header.jpg?t=1568597348"
     }, {
-        "id": 3,
+        "id":  "6dd9cbf4-4d7c-4aa1-938d-04be8c02dea3",
         "title": "Albino Lullaby: Episode 1",
         "genres": [1, 2, 3],
         "publisher": 3,
@@ -24,7 +25,7 @@
         "developer": 3,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/355860/header.jpg?t=1478193061"
     }, {
-        "id": 4,
+        "id":  "d7c6aca6-797e-4dba-b2b1-7e09ac7811ba",
         "title": "Assassin’s Creed® IV Black Flag™",
         "genres": [1, 2],
         "publisher": 4,
@@ -32,7 +33,7 @@
         "developer": 4,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/242050/header.jpg?t=1575984415"
     }, {
-        "id": 5,
+        "id":  "c922476a-2257-41b6-8bf4-2cfa32c28801",
         "title": "A Plague Tale: Innocence",
         "genres": [1],
         "publisher": 5,
@@ -40,7 +41,7 @@
         "developer": 5,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/752590/header.jpg?t=1583856034"
     }, {
-        "id": 6,
+        "id":  "c551cd56-4970-4883-a3a8-52eb65b0ad34",
         "title": "Arma 3",
         "genres": [1, 7, 8, 6],
         "publisher": 6,
@@ -48,7 +49,7 @@
         "developer": 6,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/107410/header.jpg?t=1582546432"
     }, {
-        "id": 7,
+        "id":  "69868bee-149b-4e9d-bb3c-8116e4cf4798",
         "title": "ATOM RPG",
         "genres": [5],
         "publisher": 7,
@@ -56,7 +57,7 @@
         "developer": 7,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/552620/header.jpg?t=1573854271"
     }, {
-        "id": 8,
+        "id":  "5cf684ef-f498-44bf-9339-6245295c2424",
         "title": "Batman™: Arkham Asylum Game of the Year Edition",
         "genres": [1, 2],
         "publisher": 8,
@@ -64,7 +65,7 @@
         "developer": 8,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/35140/header.jpg?t=1569358035"
     }, {
-        "id": 9,
+        "id":  "f98942c7-45c0-4409-8515-bb35e62ffcee",
         "title": "American Truck Simulator",
         "genres": [3, 8],
         "publisher": 9,
@@ -72,7 +73,7 @@
         "developer": 9,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/270880/header.jpg?t=1581693502"
     }, {
-        "id": 10,
+        "id":  "56514712-a2d5-44a9-9b28-5bd930b487fe",
         "title": "Araha: Curse of Yieun Island",
         "genres": [2, 3],
         "publisher": 10,
@@ -80,7 +81,7 @@
         "developer": 10,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/1190130/header.jpg?t=1579589804"
     }, {
-        "id": 11,
+        "id":  "56514712-a2d5-44a9-9b28-5bd930b487fe",
         "title": "Bear With Me: The Lost Robots",
         "genres": [2, 9, 3],
         "publisher": 11,
@@ -88,7 +89,7 @@
         "developer": 11,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/1050000/header.jpg?t=1573066046"
     }, {
-        "id": 12,
+        "id":  "56514712-a2d5-44a9-9b28-5bd930b487fe",
         "title": "7 Days to Die",
         "genres": [1, 2, 3],
         "publisher": 12,
@@ -96,7 +97,7 @@
         "developer": 12,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/251570/header.jpg?t=1579879756"
     }, {
-        "id": 13,
+        "id":  "56514712-a2d5-44a9-9b28-5bd930b487fe",
         "title": "Battlefleet Gothic: Armada 2",
         "genres": [6],
         "publisher": 5,
@@ -104,7 +105,7 @@
         "developer": 13,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/573100/header.jpg?t=1571674851"
     }, {
-        "id": 14,
+        "id":  "56514712-a2d5-44a9-9b28-5bd930b487fe",
         "title": "Age of Wonders: Planetfall",
         "genres": [6],
         "publisher": 13,
@@ -112,7 +113,7 @@
         "developer": 14,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/718850/header_alt_assets_1.jpg?t=1582034955"
     }, {
-        "id": 15,
+        "id":  "56514712-a2d5-44a9-9b28-5bd930b487fe",
         "title": "Artifact",
         "genres": [9, 6],
         "publisher": 14,
@@ -120,7 +121,7 @@
         "developer": 15,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/583950/header.jpg?t=1547599761"
     }, {
-        "id": 16,
+        "id":  "56514712-a2d5-44a9-9b28-5bd930b487fe",
         "title": "Argo",
         "genres": [1, 10],
         "publisher": 6,
@@ -128,7 +129,7 @@
         "developer": 6,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/530700/header.jpg?t=1582121845"
     }, {
-        "id": 17,
+        "id":  "56514712-a2d5-44a9-9b28-5bd930b487fe",
         "title": "Albion Online",
         "genres": [4, 5],
         "publisher": 15,
@@ -136,7 +137,7 @@
         "developer": 16,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/761890/header.jpg?t=1579517471"
     }, {
-        "id": 18,
+        "id":  "56514712-a2d5-44a9-9b28-5bd930b487fe",
         "title": "Battlerite",
         "genres": [1],
         "publisher": 16,
@@ -144,7 +145,7 @@
         "developer": 17,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/504370/header.jpg?t=1556921507"
     }, {
-        "id": 19,
+        "id":  "56514712-a2d5-44a9-9b28-5bd930b487fe",
         "title": "Asterix & Obelix XXL 3 - The Crystal Menhir",
         "genres": [2],
         "publisher": 17,
@@ -152,7 +153,7 @@
         "developer": 18,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/1109690/header.jpg?t=1575449946"
     }, {
-        "id": 20,
+        "id":  "1e542f4b-6a82-4df5-be82-082aef82963d",
         "title": "Catherine Classic",
         "genres": [2],
         "publisher": 18,
@@ -160,7 +161,7 @@
         "developer": 19,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/893180/header.jpg?t=1582800847"
     }, {
-        "id": 21,
+        "id":  "1e542f4b-6a82-4df5-be82-082aef82963d",
         "title": "Armello",
         "genres": [2, 3, 5, 6],
         "publisher": 19,
@@ -168,7 +169,7 @@
         "developer": 20,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/290340/header.jpg?t=1572478783"
     }, {
-        "id": 22,
+        "id":  "1e542f4b-6a82-4df5-be82-082aef82963d",
         "title": "Batman™: Arkham City - Game of the Year Edition",
         "genres": [1, 2],
         "publisher": 8,
@@ -176,7 +177,7 @@
         "developer": 8,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/200260/header.jpg?t=1573322737"
     }, {
-        "id": 23,
+        "id":  "1e542f4b-6a82-4df5-be82-082aef82963d",
         "title": "ASTRONEER",
         "genres": [2, 3],
         "publisher": 20,
@@ -184,7 +185,7 @@
         "developer": 21,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/361420/header.jpg?t=1578609139"
     }, {
-        "id": 24,
+        "id":  "1e542f4b-6a82-4df5-be82-082aef82963d",
         "title": "ARK: Survival Evolved",
         "genres": [1, 2, 3, 4, 5],
         "publisher": 1,
@@ -192,7 +193,7 @@
         "developer": 1,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/346110/header.jpg?t=1583178772"
     }, {
-        "id": 25,
+        "id":  "1e542f4b-6a82-4df5-be82-082aef82963d",
         "title": "Battlerite Royale",
         "genres": [1, 4, 11],
         "publisher": 16,
@@ -200,7 +201,7 @@
         "developer": 17,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/879160/header.jpg?t=1571235976"
     }, {
-        "id": 26,
+        "id":  "1e542f4b-6a82-4df5-be82-082aef82963d",
         "title": "AI: The Somnium Files",
         "genres": [2],
         "publisher": 21,
@@ -208,7 +209,7 @@
         "developer": 22,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/948740/header.jpg?t=1569374371"
     }, {
-        "id": 27,
+        "id":  "1e542f4b-6a82-4df5-be82-082aef82963d",
         "title": "Blair Witch",
         "genres": [2, 3],
         "publisher": 22,
@@ -216,7 +217,7 @@
         "developer": 23,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/1092660/header.jpg?t=1580201156"
     }, {
-        "id": 28,
+        "id":  "1e542f4b-6a82-4df5-be82-082aef82963d",
         "title": "ACE COMBAT™ 7: SKIES UNKNOWN",
         "genres": [1, 8],
         "publisher": 23,
@@ -224,7 +225,7 @@
         "developer": 24,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/502500/header.jpg?t=1580308863"
     }, {
-        "id": 29,
+        "id":  "1e542f4b-6a82-4df5-be82-082aef82963d",
         "title": "Claybook",
         "genres": [1, 3, 12, 13],
         "publisher": 24,
@@ -232,7 +233,7 @@
         "developer": 25,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/661920/header.jpg?t=1572331500"
     }, {
-        "id": 30,
+        "id":  "6dd9cbf4-4d7c-4aa1-938d-04be8c02dea3",
         "title": "Age of Wonders III",
         "genres": [5, 6],
         "publisher": 13,
@@ -240,7 +241,7 @@
         "developer": 14,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/226840/header.jpg?t=1565111067"
     }, {
-        "id": 31,
+        "id":  "6dd9cbf4-4d7c-4aa1-938d-04be8c02dea3",
         "title": "BeamNG.drive",
         "genres": [8, 14],
         "publisher": 25,
@@ -248,7 +249,7 @@
         "developer": 26,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/284160/header.jpg?t=1581529279"
     }, {
-        "id": 32,
+        "id":  "6dd9cbf4-4d7c-4aa1-938d-04be8c02dea3",
         "title": "AO International Tennis",
         "genres": [15],
         "publisher": 26,
@@ -256,7 +257,7 @@
         "developer": 27,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/758410/header.jpg?t=1572496262"
     }, {
-        "id": 33,
+        "id":  "6dd9cbf4-4d7c-4aa1-938d-04be8c02dea3",
         "title": "BLACKSAD: Under the Skin",
         "genres": [2, 9, 13],
         "publisher": 17,
@@ -264,7 +265,7 @@
         "developer": 28,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/1003890/header.jpg?t=1581688634"
     }, {
-        "id": 34,
+        "id":  "6dd9cbf4-4d7c-4aa1-938d-04be8c02dea3",
         "title": "Black Desert Online",
         "genres": [1, 2, 10, 4, 5, 8, 6],
         "publisher": 27,
@@ -272,7 +273,7 @@
         "developer": 29,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/582660/header.jpg?t=1582826837"
     }, {
-        "id": 35,
+        "id":  "6dd9cbf4-4d7c-4aa1-938d-04be8c02dea3",
         "title": "Assassin’s Creed® Unity",
         "genres": [1, 2],
         "publisher": 4,
@@ -280,7 +281,7 @@
         "developer": 30,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/289650/header.jpg?t=1575045099"
     }, {
-        "id": 36,
+        "id":  "6dd9cbf4-4d7c-4aa1-938d-04be8c02dea3",
         "title": "Clicker Heroes",
         "genres": [2, 9, 10, 3, 5, 8, 6],
         "publisher": 28,
@@ -288,7 +289,7 @@
         "developer": 31,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/363970/header.jpg?t=1512177483"
     }, {
-        "id": 37,
+        "id":  "6dd9cbf4-4d7c-4aa1-938d-04be8c02dea3",
         "title": "Call of Cthulhu®",
         "genres": [2, 5],
         "publisher": 5,
@@ -296,7 +297,7 @@
         "developer": 32,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/399810/header.jpg?t=1565103340"
     }, {
-        "id": 38,
+        "id":  "6dd9cbf4-4d7c-4aa1-938d-04be8c02dea3",
         "title": "Assassin’s Creed®: Syndicate",
         "genres": [1, 2],
         "publisher": 4,
@@ -304,7 +305,7 @@
         "developer": 33,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/368500/header.jpg?t=1575042803"
     }, {
-        "id": 39,
+        "id":  "6dd9cbf4-4d7c-4aa1-938d-04be8c02dea3",
         "title": "Amazing Cultivation Simulator / 了不起的修仙模拟器",
         "genres": [3, 5, 8, 6],
         "publisher": 29,
@@ -312,7 +313,7 @@
         "developer": 34,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/955900/header.jpg?t=1582171273"
     }, {
-        "id": 40,
+        "id":  "d7c6aca6-797e-4dba-b2b1-7e09ac7811ba",
         "title": "ATLAS",
         "genres": [1, 2, 4, 5],
         "publisher": 30,
@@ -320,7 +321,7 @@
         "developer": 35,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/834910/header.jpg?t=1573620788"
     }, {
-        "id": 41,
+        "id":  "d7c6aca6-797e-4dba-b2b1-7e09ac7811ba",
         "title": "Brawlhalla",
         "genres": [1, 10, 3, 12],
         "publisher": 4,
@@ -328,7 +329,7 @@
         "developer": 36,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/291550/header.jpg?t=1583426143"
     }, {
-        "id": 42,
+        "id":  "d7c6aca6-797e-4dba-b2b1-7e09ac7811ba",
         "title": "Company of Heroes",
         "genres": [1, 6],
         "publisher": 31,
@@ -336,7 +337,7 @@
         "developer": 37,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/228200/header.jpg?t=1570195772"
     }, {
-        "id": 43,
+        "id":  "d7c6aca6-797e-4dba-b2b1-7e09ac7811ba",
         "title": "Assetto Corsa Competizione",
         "genres": [14, 8, 15],
         "publisher": 32,
@@ -344,7 +345,7 @@
         "developer": 38,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/805550/header.jpg?t=1580836221"
     }, {
-        "id": 44,
+        "id":  "d7c6aca6-797e-4dba-b2b1-7e09ac7811ba",
         "title": "CardLife: Cardboard Survival",
         "genres": [1, 2, 4, 3, 5],
         "publisher": 33,
@@ -352,7 +353,7 @@
         "developer": 39,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/920690/header.jpg?t=1551692554"
     }, {
-        "id": 45,
+        "id":  "d7c6aca6-797e-4dba-b2b1-7e09ac7811ba",
         "title": "Cities: Skylines",
         "genres": [9, 8, 6],
         "publisher": 13,
@@ -360,7 +361,7 @@
         "developer": 40,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/255710/header.jpg?t=1580202319"
     }, {
-        "id": 46,
+        "id":  "d7c6aca6-797e-4dba-b2b1-7e09ac7811ba",
         "title": "Celeste",
         "genres": [1, 2, 3, 12],
         "publisher": 34,
@@ -368,7 +369,7 @@
         "developer": 41,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/504230/header.jpg?t=1580863858"
     }, {
-        "id": 47,
+        "id":  "d7c6aca6-797e-4dba-b2b1-7e09ac7811ba",
         "title": "Constructor Plus",
         "genres": [3, 8, 6],
         "publisher": 35,
@@ -376,7 +377,7 @@
         "developer": 42,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/898800/header.jpg?t=1575426423"
     }, {
-        "id": 48,
+        "id":  "d7c6aca6-797e-4dba-b2b1-7e09ac7811ba",
         "title": "Conception PLUS: Maidens of the Twelve Stars",
         "genres": [5],
         "publisher": 21,
@@ -384,7 +385,7 @@
         "developer": 22,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/906510/header.jpg?t=1573001675"
     }, {
-        "id": 49,
+        "id":  "d7c6aca6-797e-4dba-b2b1-7e09ac7811ba",
         "title": "Brothers: A Tale of Two Sons",
         "genres": [2, 9, 13],
         "publisher": 32,
@@ -392,7 +393,7 @@
         "developer": 43,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/225080/header.jpg?t=1571694004"
     }, {
-        "id": 50,
+        "id":  "c922476a-2257-41b6-8bf4-2cfa32c28801",
         "title": "Black Squad",
         "genres": [7, 1, 10],
         "publisher": 36,
@@ -400,7 +401,7 @@
         "developer": 44,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/550650/header.jpg?t=1580793307"
     }, {
-        "id": 51,
+        "id":  "c922476a-2257-41b6-8bf4-2cfa32c28801",
         "title": "Assetto Corsa",
         "genres": [14, 8, 15],
         "publisher": 37,
@@ -408,7 +409,7 @@
         "developer": 38,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/244210/header.jpg?t=1574932208"
     }, {
-        "id": 52,
+        "id":  "c922476a-2257-41b6-8bf4-2cfa32c28801",
         "title": "Cuphead",
         "genres": [1, 16, 3, 12],
         "publisher": 38,
@@ -416,7 +417,7 @@
         "developer": 45,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/268910/header.jpg?t=1572039891"
     }, {
-        "id": 53,
+        "id":  "c922476a-2257-41b6-8bf4-2cfa32c28801",
         "title": "Dakar 18",
         "genres": [14, 8],
         "publisher": 39,
@@ -424,7 +425,7 @@
         "developer": 46,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/767390/header.jpg?t=1569506171"
     }, {
-        "id": 54,
+        "id":  "c922476a-2257-41b6-8bf4-2cfa32c28801",
         "title": "DAEMON X MACHINA",
         "genres": [1],
         "publisher": 40,
@@ -432,7 +433,7 @@
         "developer": 47,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/1167450/header.jpg?t=1581706100"
     }, {
-        "id": 55,
+        "id":  "c922476a-2257-41b6-8bf4-2cfa32c28801",
         "title": "Assassin’s Creed® Odyssey",
         "genres": [1, 2, 3],
         "publisher": 4,
@@ -440,7 +441,7 @@
         "developer": 48,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/812140/header.jpg?t=1582146584"
     }, {
-        "id": 56,
+        "id":  "c922476a-2257-41b6-8bf4-2cfa32c28801",
         "title": "Counter-Strike: Source",
         "genres": [1, 7],
         "publisher": 14,
@@ -448,7 +449,7 @@
         "developer": 15,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/240/header.jpg?t=1580852525"
     }, {
-        "id": 57,
+        "id":  "c922476a-2257-41b6-8bf4-2cfa32c28801",
         "title": "Closers",
         "genres": [10, 4, 5],
         "publisher": 41,
@@ -456,7 +457,7 @@
         "developer": 49,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/215830/header.jpg?t=1568146837"
     }, {
-        "id": 58,
+        "id":  "c922476a-2257-41b6-8bf4-2cfa32c28801",
         "title": "Clicker Heroes 2",
         "genres": [1, 2, 16, 9, 3, 5, 8, 6],
         "publisher": 28,
@@ -464,7 +465,7 @@
         "developer": 31,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/629910/header.jpg?t=1576653422"
     }, {
-        "id": 59,
+        "id":  "c922476a-2257-41b6-8bf4-2cfa32c28801",
         "title": "Chivalry: Medieval Warfare",
         "genres": [1, 3],
         "publisher": 42,
@@ -472,7 +473,7 @@
         "developer": 50,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/219640/header.jpg?t=1574984340"
     }, {
-        "id": 60,
+        "id":  "c551cd56-4970-4883-a3a8-52eb65b0ad34",
         "title": "Commandos 2 - HD Remaster",
         "genres": [6],
         "publisher": 43,
@@ -480,7 +481,7 @@
         "developer": 51,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/1100410/header_alt_assets_0.jpg?t=1583406183"
     }, {
-        "id": 61,
+        "id":  "c551cd56-4970-4883-a3a8-52eb65b0ad34",
         "title": "Counter-Strike",
         "genres": [7, 1],
         "publisher": 14,
@@ -488,7 +489,7 @@
         "developer": 15,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/10/header.jpg?t=1568751918"
     }, {
-        "id": 62,
+        "id":  "c551cd56-4970-4883-a3a8-52eb65b0ad34",
         "title": "Cultist Simulator",
         "genres": [3, 5, 8, 6],
         "publisher": 44,
@@ -496,7 +497,7 @@
         "developer": 52,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/718670/header.jpg?t=1580838445"
     }, {
-        "id": 63,
+        "id":  "c551cd56-4970-4883-a3a8-52eb65b0ad34",
         "title": "Darksiders III",
         "genres": [1, 2, 3, 5],
         "publisher": 45,
@@ -504,7 +505,7 @@
         "developer": 53,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/606280/header.jpg?t=1570126172"
     }, {
-        "id": 64,
+        "id":  "c551cd56-4970-4883-a3a8-52eb65b0ad34",
         "title": "Blackwake",
         "genres": [1, 3, 6],
         "publisher": 46,
@@ -512,7 +513,7 @@
         "developer": 54,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/420290/header.jpg?t=1582336693"
     }, {
-        "id": 65,
+        "id":  "c551cd56-4970-4883-a3a8-52eb65b0ad34",
         "title": "ATOMEGA™",
         "genres": [1, 3],
         "publisher": 4,
@@ -520,7 +521,7 @@
         "developer": 55,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/619880/header.jpg?t=1517337080"
     }, {
-        "id": 66,
+        "id":  "c551cd56-4970-4883-a3a8-52eb65b0ad34",
         "title": "AVICII Invector",
         "genres": [9, 3],
         "publisher": 47,
@@ -528,7 +529,7 @@
         "developer": 56,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/986800/header.jpg?t=1579517097"
     }, {
-        "id": 67,
+        "id":  "c551cd56-4970-4883-a3a8-52eb65b0ad34",
         "title": "DARKSIDERS: GENESIS",
         "genres": [1, 2, 5],
         "publisher": 45,
@@ -536,7 +537,7 @@
         "developer": 57,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/710920/header.jpg?t=1583825750"
     }, {
-        "id": 68,
+        "id":  "c551cd56-4970-4883-a3a8-52eb65b0ad34",
         "title": "Darwin Project",
         "genres": [1, 9, 10, 3],
         "publisher": 48,
@@ -544,7 +545,7 @@
         "developer": 58,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/544920/header.jpg?t=1582672456"
     }, {
-        "id": 69,
+        "id":  "c551cd56-4970-4883-a3a8-52eb65b0ad34",
         "title": "Cuisine Royale",
         "genres": [1, 10, 4],
         "publisher": 49,
@@ -552,7 +553,7 @@
         "developer": 59,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/884660/header.jpg?t=1582886709"
     }, {
-        "id": 70,
+        "id":  "69868bee-149b-4e9d-bb3c-8116e4cf4798",
         "title": "Crossout",
         "genres": [1, 4, 14, 10],
         "publisher": 50,
@@ -560,7 +561,7 @@
         "developer": 60,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/386180/header.jpg?t=1583833342"
     }, {
-        "id": 71,
+        "id":  "69868bee-149b-4e9d-bb3c-8116e4cf4798",
         "title": "Dead by Daylight",
         "genres": [1],
         "publisher": 51,
@@ -568,7 +569,7 @@
         "developer": 61,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/381210/header.jpg?t=1583856335"
     }, {
-        "id": 72,
+        "id":  "69868bee-149b-4e9d-bb3c-8116e4cf4798",
         "title": "Chernobylite",
         "genres": [1, 2, 3, 5, 8],
         "publisher": 52,
@@ -576,7 +577,7 @@
         "developer": 62,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/1016800/header.jpg?t=1582816591"
     }, {
-        "id": 73,
+        "id":  "69868bee-149b-4e9d-bb3c-8116e4cf4798",
         "title": "Dawn of Man",
         "genres": [3, 8, 6],
         "publisher": 53,
@@ -584,7 +585,7 @@
         "developer": 63,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/858810/header.jpg?t=1577994124"
     }, {
-        "id": 74,
+        "id":  "69868bee-149b-4e9d-bb3c-8116e4cf4798",
         "title": "Crying Suns",
         "genres": [3, 6],
         "publisher": 44,
@@ -592,7 +593,7 @@
         "developer": 64,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/873940/header.jpg?t=1580207463"
     }, {
-        "id": 75,
+        "id":  "69868bee-149b-4e9d-bb3c-8116e4cf4798",
         "title": "Deliver Us The Moon: Fortuna",
         "genres": [1, 2, 3, 13, 8],
         "publisher": 47,
@@ -600,7 +601,7 @@
         "developer": 65,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/428660/header.jpg?t=1579000471"
     }, {
-        "id": 76,
+        "id":  "69868bee-149b-4e9d-bb3c-8116e4cf4798",
         "title": "Descenders",
         "genres": [1, 14, 15],
         "publisher": 54,
@@ -608,7 +609,7 @@
         "developer": 66,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/681280/header.jpg?t=1582816583"
     }, {
-        "id": 77,
+        "id":  "69868bee-149b-4e9d-bb3c-8116e4cf4798",
         "title": "Black Future '88",
         "genres": [1, 2, 3],
         "publisher": 55,
@@ -616,7 +617,7 @@
         "developer": 67,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/751820/header.jpg?t=1580900489"
     }, {
-        "id": 78,
+        "id":  "69868bee-149b-4e9d-bb3c-8116e4cf4798",
         "title": "Dungeon Defenders: Awakened",
         "genres": [3, 5, 6],
         "publisher": 56,
@@ -624,7 +625,7 @@
         "developer": 68,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/1101190/header.jpg?t=1582308089"
     }, {
-        "id": 79,
+        "id":  "69868bee-149b-4e9d-bb3c-8116e4cf4798",
         "title": "BlazBlue: Cross Tag Battle",
         "genres": [1],
         "publisher": 57,
@@ -632,7 +633,7 @@
         "developer": 69,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/702890/header.jpg?t=1574317884"
     }, {
-        "id": 80,
+        "id":  "5cf684ef-f498-44bf-9339-6245295c2424",
         "title": "Diesel Brothers: Truck Building Simulator",
         "genres": [9, 14, 8],
         "publisher": 58,
@@ -640,7 +641,7 @@
         "developer": 70,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/750050/header.jpg?t=1568793863"
     }, {
-        "id": 81,
+        "id":  "5cf684ef-f498-44bf-9339-6245295c2424",
         "title": "Dungreed",
         "genres": [1, 3],
         "publisher": 59,
@@ -648,7 +649,7 @@
         "developer": 71,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/753420/header.jpg?t=1576032612"
     }, {
-        "id": 82,
+        "id":  "5cf684ef-f498-44bf-9339-6245295c2424",
         "title": "Battletech",
         "genres": [1, 2, 6],
         "publisher": 60,
@@ -656,7 +657,7 @@
         "developer": 72,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/637090/header.jpg?t=1574360849"
     }, {
-        "id": 83,
+        "id":  "5cf684ef-f498-44bf-9339-6245295c2424",
         "title": "Dota Underlords",
         "genres": [10, 6],
         "publisher": 14,
@@ -664,7 +665,7 @@
         "developer": 15,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/1046930/header.jpg?t=1582824803"
     }, {
-        "id": 84,
+        "id":  "5cf684ef-f498-44bf-9339-6245295c2424",
         "title": "Destiny 2",
         "genres": [1, 2, 7, 10, 4, 5],
         "publisher": 61,
@@ -672,7 +673,7 @@
         "developer": 73,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/1085660/header.jpg?t=1583858222"
     }, {
-        "id": 85,
+        "id":  "5cf684ef-f498-44bf-9339-6245295c2424",
         "title": "Crusader Kings II",
         "genres": [10, 5, 8, 6],
         "publisher": 13,
@@ -680,7 +681,7 @@
         "developer": 74,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/203770/header.jpg?t=1583519180"
     }, {
-        "id": 86,
+        "id":  "5cf684ef-f498-44bf-9339-6245295c2424",
         "title": "Deep Rock Galactic",
         "genres": [1, 3],
         "publisher": 62,
@@ -688,7 +689,7 @@
         "developer": 75,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/548430/header.jpg?t=1583051657"
     }, {
-        "id": 87,
+        "id":  "5cf684ef-f498-44bf-9339-6245295c2424",
         "title": "Darksburg",
         "genres": [1, 3],
         "publisher": 63,
@@ -696,7 +697,7 @@
         "developer": 76,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/939100/header.jpg?t=1583141827"
     }, {
-        "id": 88,
+        "id":  "5cf684ef-f498-44bf-9339-6245295c2424",
         "title": "Far Cry® 4",
         "genres": [1, 2, 7],
         "publisher": 4,
@@ -704,7 +705,7 @@
         "developer": 77,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/298110/header.jpg?t=1575377085"
     }, {
-        "id": 89,
+        "id":  "5cf684ef-f498-44bf-9339-6245295c2424",
         "title": "Curse of the Dead Gods",
         "genres": [1, 2],
         "publisher": 5,
@@ -712,7 +713,7 @@
         "developer": 78,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/1123770/header.jpg?t=1583334060"
     }, {
-        "id": 90,
+        "id":  "f98942c7-45c0-4409-8515-bb35e62ffcee",
         "title": "DARK SOULS™ III",
         "genres": [1, 5],
         "publisher": 64,
@@ -720,7 +721,7 @@
         "developer": 79,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/374320/header.jpg?t=1580308221"
     }, {
-        "id": 91,
+        "id":  "f98942c7-45c0-4409-8515-bb35e62ffcee",
         "title": "Double Turn",
         "genres": [1, 3],
         "publisher": 65,
@@ -728,7 +729,7 @@
         "developer": 80,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/762680/header.jpg?t=1549907896"
     }, {
-        "id": 92,
+        "id":  "f98942c7-45c0-4409-8515-bb35e62ffcee",
         "title": "DARK SOULS™: REMASTERED",
         "genres": [1, 5],
         "publisher": 66,
@@ -736,7 +737,7 @@
         "developer": 81,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/570940/header.jpg?t=1580308688"
     }, {
-        "id": 93,
+        "id":  "f98942c7-45c0-4409-8515-bb35e62ffcee",
         "title": "FrostRunner",
         "genres": [1, 10, 3, 12],
         "publisher": 67,
@@ -744,7 +745,7 @@
         "developer": 82,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/934840/header.jpg?t=1566744887"
     }, {
-        "id": 94,
+        "id":  "f98942c7-45c0-4409-8515-bb35e62ffcee",
         "title": "Cooking Simulator",
         "genres": [9, 3, 8],
         "publisher": 68,
@@ -752,7 +753,7 @@
         "developer": 83,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/641320/header.jpg?t=1583248087"
     }, {
-        "id": 95,
+        "id":  "f98942c7-45c0-4409-8515-bb35e62ffcee",
         "title": "Counter-Strike: Global Offensive",
         "genres": [1, 7, 10],
         "publisher": 69,
@@ -760,7 +761,7 @@
         "developer": 15,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/730/header.jpg?t=1580765900"
     }, {
-        "id": 96,
+        "id":  "f98942c7-45c0-4409-8515-bb35e62ffcee",
         "title": "Deep Sky Derelicts",
         "genres": [3, 5, 6],
         "publisher": 70,
@@ -768,7 +769,7 @@
         "developer": 84,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/698640/header.jpg?t=1578491187"
     }, {
-        "id": 97,
+        "id":  "f98942c7-45c0-4409-8515-bb35e62ffcee",
         "title": "Dota 2",
         "genres": [1, 10, 11, 6],
         "publisher": 14,
@@ -776,7 +777,7 @@
         "developer": 15,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/570/header.jpg?t=1581406684"
     }, {
-        "id": 98,
+        "id":  "f98942c7-45c0-4409-8515-bb35e62ffcee",
         "title": "ELEX",
         "genres": [1, 2, 5],
         "publisher": 45,
@@ -784,7 +785,7 @@
         "developer": 85,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/411300/header.jpg?t=1574337712"
     }, {
-        "id": 99,
+        "id":  "f98942c7-45c0-4409-8515-bb35e62ffcee",
         "title": "DCL - The Game",
         "genres": [14, 8],
         "publisher": 71,
@@ -792,7 +793,7 @@
         "developer": 86,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/964570/header.jpg?t=1582193560"
     }, {
-        "id": 100,
+        "id":  "1f37599a-b8df-4a7f-92b0-73ce2433ff8f",
         "title": "EXAPUNKS",
         "genres": [3, 13, 8],
         "publisher": 72,
@@ -800,7 +801,7 @@
         "developer": 87,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/716490/header.jpg?t=1573782831"
     }, {
-        "id": 101,
+        "id":  "706effd0-cc24-4eb3-a1f6-9486cc0dfc78",
         "title": "Five Nights at Freddy's 2",
         "genres": [3, 8, 1, 6],
         "publisher": 73,
@@ -808,7 +809,7 @@
         "developer": 88,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/332800/header.jpg?t=1579635993"
     }, {
-        "id": 102,
+        "id":  "793955c6-64ed-4150-a5ae-43fdba13edc8",
         "title": "Dead Cells",
         "genres": [1, 3, 12],
         "publisher": 74,
@@ -816,7 +817,7 @@
         "developer": 89,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/588650/header_alt_assets_7.jpg?t=1581606652"
     }, {
-        "id": 103,
+        "id":  "b8b76103-5419-4ff5-bc46-daf186ba3fd0",
         "title": "Edge Of Eternity",
         "genres": [3, 5, 6],
         "publisher": 75,
@@ -824,7 +825,7 @@
         "developer": 90,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/269190/header.jpg?t=1581071255"
     }, {
-        "id": 104,
+        "id":  "6653cb7b-d936-4adb-9029-d18282136255",
         "title": "Darkest Dungeon®",
         "genres": [3, 5, 6],
         "publisher": 76,
@@ -832,7 +833,7 @@
         "developer": 91,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/262060/header.jpg?t=1580160435"
     }, {
-        "id": 105,
+        "id":  "d3796185-e3aa-4b6a-a157-f4aaab1d87c3",
         "title": "Darksiders II Deathinitive Edition",
         "genres": [1, 2, 5],
         "publisher": 45,
@@ -840,7 +841,7 @@
         "developer": 53,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/388410/header.jpg?t=1570489988"
     }, {
-        "id": 106,
+        "id":  "4d36c8a8-48b3-4f29-b4c2-0406826c38a7",
         "title": "DESOLATE",
         "genres": [1, 2, 5],
         "publisher": 77,
@@ -848,7 +849,7 @@
         "developer": 92,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/671510/header.jpg?t=1581515119"
     }, {
-        "id": 107,
+        "id":  "38f8afd0-d2f5-4e68-a226-17a51fff7def",
         "title": "Dead Frontier 2",
         "genres": [1, 10, 3, 4, 5],
         "publisher": 78,
@@ -856,7 +857,7 @@
         "developer": 93,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/744900/header.jpg?t=1580829943"
     }, {
-        "id": 108,
+        "id":  "8ca89a93-65e9-4189-a96a-047e4e2a6d8e",
         "title": "FTL: Faster Than Light",
         "genres": [9, 3, 8, 6],
         "publisher": 79,
@@ -864,7 +865,7 @@
         "developer": 94,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/212680/header.jpg?t=1580423188"
     }, {
-        "id": 109,
+        "id":  "e83f5ffb-000e-449c-8f70-13b3178c1945",
         "title": "Dirty Bomb®",
         "genres": [1, 10, 7],
         "publisher": 80,
@@ -872,7 +873,7 @@
         "developer": 95,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/333930/header.jpg?t=1551717452"
     }, {
-        "id": 110,
+        "id":  "c4d6fe88-cf4d-4670-86eb-d2918e792780",
         "title": "Football Manager 2019",
         "genres": [15, 8],
         "publisher": 31,
@@ -880,7 +881,7 @@
         "developer": 96,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/872790/header.jpg?t=1576692442"
     }, {
-        "id": 111,
+        "id":  "43f1231c-d798-4ced-896d-190fa41b77e7",
         "title": "Forager",
         "genres": [1, 2, 9, 3, 8],
         "publisher": 44,
@@ -888,7 +889,7 @@
         "developer": 97,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/751780/header.jpg?t=1580088330"
     }, {
-        "id": 112,
+        "id":  "dabc2f84-0123-4db1-9b73-9f7fffb33d61",
         "title": "Fade to Silence",
         "genres": [5],
         "publisher": 81,
@@ -896,7 +897,7 @@
         "developer": 98,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/706020/header.jpg?t=1568196449"
     }, {
-        "id": 113,
+        "id":  "72b51d95-5a98-4be1-9816-77fa29c21a4a",
         "title": "Everreach: Project Eden",
         "genres": [1, 7, 3, 5],
         "publisher": 82,
@@ -904,7 +905,7 @@
         "developer": 99,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/915670/header.jpg?t=1580137184"
     }, {
-        "id": 114,
+        "id":  "0ac5a4f7-2016-4ea1-b715-6683f1014172",
         "title": "Days of War: Definitive Edition",
         "genres": [1, 7, 3],
         "publisher": 83,
@@ -912,7 +913,7 @@
         "developer": 100,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/454350/header_alt_assets_1.jpg?t=1582253185"
     }, {
-        "id": 115,
+        "id":  "0d715804-f9f7-42d1-b143-e38c8c87e273",
         "title": "Dying Light: Bad Blood",
         "genres": [1, 4, 5],
         "publisher": 84,
@@ -920,7 +921,7 @@
         "developer": 101,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/766370/header.jpg?t=1580153498"
     }, {
-        "id": 116,
+        "id":  "78d5b3bb-ed1b-4756-b1e5-794d04d5a361",
         "title": "Enter the Gungeon",
         "genres": [1, 2, 3],
         "publisher": 85,
@@ -928,7 +929,7 @@
         "developer": 102,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/311690/header.jpg?t=1575923806"
     }, {
-        "id": 117,
+        "id":  "ddc02fec-327a-4b0d-b2f7-49277cc422c1",
         "title": "Deadliest Catch: The Game",
         "genres": [1, 2, 3, 8],
         "publisher": 86,
@@ -936,7 +937,7 @@
         "developer": 103,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/838630/header.jpg?t=1583498344"
     }, {
-        "id": 118,
+        "id":  "7f8a6e05-0d4e-4a30-8fde-57cc5bafff5f",
         "title": "Far Cry® 5",
         "genres": [1, 2, 7],
         "publisher": 4,
@@ -944,7 +945,7 @@
         "developer": 4,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/552520/header.jpg?t=1575655495"
     }, {
-        "id": 119,
+        "id":  "f1dd1b73-fa5d-45f7-836c-00a450e9d0d3",
         "title": "Donut County",
         "genres": [2, 9, 3, 13],
         "publisher": 87,
@@ -952,7 +953,7 @@
         "developer": 104,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/702670/header.jpg?t=1578339832"
     }, {
-        "id": 120,
+        "id":  "d7052b31-9681-447b-a904-b8f6af2fadc3",
         "title": "Islands of Nyne: Battle Royale",
         "genres": [7, 1, 3, 4],
         "publisher": 88,
@@ -960,7 +961,7 @@
         "developer": 105,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/728540/header.jpg?t=1545251662"
     }, {
-        "id": 121,
+        "id":  "24470659-23a5-4285-ad60-509e35750ea5",
         "title": "DUSK",
         "genres": [1, 3],
         "publisher": 89,
@@ -968,7 +969,7 @@
         "developer": 106,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/519860/header.jpg?t=1581400216"
     }, {
-        "id": 122,
+        "id":  "52ab1d66-776e-441c-832c-590f0095dc29",
         "title": "Dead In Vinland",
         "genres": [2, 3, 5, 8, 6],
         "publisher": 90,
@@ -976,7 +977,7 @@
         "developer": 107,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/573120/header.jpg?t=1568805334"
     }, {
-        "id": 123,
+        "id":  "db5898de-b60d-415d-b775-79e45a42f33f",
         "title": "For The King",
         "genres": [2, 3, 5, 6],
         "publisher": 91,
@@ -984,7 +985,7 @@
         "developer": 108,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/527230/header.jpg?t=1573769343"
     }, {
-        "id": 124,
+        "id":  "45645569-7097-47fe-9c89-872695e78df8",
         "title": "DiRT 4",
         "genres": [14, 8, 15],
         "publisher": 92,
@@ -992,7 +993,7 @@
         "developer": 109,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/421020/header.jpg?t=1573486444"
     }, {
-        "id": 125,
+        "id":  "293abee9-5d74-4fd6-b8d9-da3048a2b785",
         "title": "Fantasy General II",
         "genres": [6],
         "publisher": 93,
@@ -1000,7 +1001,7 @@
         "developer": 110,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/1025440/header.jpg?t=1582791608"
     }, {
-        "id": 126,
+        "id":  "6f25fa3d-dcc1-495f-b6bf-e5af25bd830a",
         "title": "Into the Breach",
         "genres": [3, 5, 8, 6],
         "publisher": 79,
@@ -1008,7 +1009,7 @@
         "developer": 94,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/590380/header.jpg?t=1569971056"
     }, {
-        "id": 127,
+        "id":  "6224d7f6-eb96-4a29-ad2b-96b9b589ee85",
         "title": "Conan Exiles",
         "genres": [1, 2, 4, 5, 8, 6],
         "publisher": 94,
@@ -1016,7 +1017,7 @@
         "developer": 111,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/440900/header.jpg?t=1582882015"
     }, {
-        "id": 128,
+        "id":  "f57b5920-1d56-4b71-b243-5afc9f626657",
         "title": "Depth",
         "genres": [1, 3],
         "publisher": 95,
@@ -1024,7 +1025,7 @@
         "developer": 112,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/274940/header.jpg?t=1581645045"
     }, {
-        "id": 129,
+        "id":  "dc8cfd0e-ca09-4231-b6d3-bd72aeab930c",
         "title": "Empyrion - Galactic Survival",
         "genres": [2, 3, 8, 6],
         "publisher": 96,
@@ -1032,7 +1033,7 @@
         "developer": 113,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/383120/header.jpg?t=1578903100"
     }, {
-        "id": 130,
+        "id":  "e1f59bb7-cf92-4d70-9765-1f70eed0bbf9",
         "title": "Don't Starve",
         "genres": [2, 3, 8],
         "publisher": 97,
@@ -1040,7 +1041,7 @@
         "developer": 114,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/219740/header.jpg?t=1577386240"
     }, {
-        "id": 131,
+        "id":  "4017c3c8-6138-4973-8386-c193218b6252",
         "title": "Immortal: Unchained",
         "genres": [1, 2, 5],
         "publisher": 98,
@@ -1048,7 +1049,7 @@
         "developer": 115,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/369440/header.jpg?t=1572359580"
     }, {
-        "id": 132,
+        "id":  "7e074cfb-c41f-41b7-9947-8ccdd26b4d20",
         "title": "Kingdom Rush Origins",
         "genres": [3, 6],
         "publisher": 99,
@@ -1056,7 +1057,7 @@
         "developer": 116,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/816340/header.jpg?t=1560522383"
     }, {
-        "id": 133,
+        "id":  "05bbf06d-2b36-4d6a-b462-201a53af808f",
         "title": "Endless Space® 2",
         "genres": [6],
         "publisher": 31,
@@ -1064,7 +1065,7 @@
         "developer": 117,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/392110/header.jpg?t=1582556003"
     }, {
-        "id": 134,
+        "id":  "8f20d3cf-7860-428c-a5de-f06a39b17657",
         "title": "Don't Starve Together",
         "genres": [2, 3, 8],
         "publisher": 97,
@@ -1072,7 +1073,7 @@
         "developer": 114,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/322330/header.jpg?t=1579803133"
     }, {
-        "id": 135,
+        "id":  "dd124361-97d0-4eb1-9d17-40b2594cf82e",
         "title": "Garry's Mod",
         "genres": [3, 8],
         "publisher": 14,
@@ -1080,7 +1081,7 @@
         "developer": 118,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/4000/header.jpg?t=1576464538"
     }, {
-        "id": 136,
+        "id":  "79219e6d-000c-42d2-affc-f9481928bdb4",
         "title": "Guacamelee! 2",
         "genres": [1, 2, 3, 12],
         "publisher": 100,
@@ -1088,7 +1089,7 @@
         "developer": 119,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/534550/header.jpg?t=1582060387"
     }, {
-        "id": 137,
+        "id":  "42e84d83-6c8f-4b0b-b53b-07e82a635e64",
         "title": "Elite Dangerous",
         "genres": [1, 2, 4, 5, 8, 6],
         "publisher": 101,
@@ -1096,7 +1097,7 @@
         "developer": 120,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/359320/header.jpg?t=1573730884"
     }, {
-        "id": 138,
+        "id":  "522b9ca7-f4cb-40f0-aa43-1e35d0fb11ef",
         "title": "GreedFall",
         "genres": [1, 5],
         "publisher": 5,
@@ -1104,7 +1105,7 @@
         "developer": 121,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/606880/header.jpg?t=1575302145"
     }, {
-        "id": 139,
+        "id":  "bf43fd34-0887-4af4-b664-36a30361ca28",
         "title": "Insurgency: Sandstorm",
         "genres": [1, 7],
         "publisher": 5,
@@ -1112,7 +1113,7 @@
         "developer": 122,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/581320/header.jpg?t=1582737024"
     }, {
-        "id": 140,
+        "id":  "f2a9f7a0-155d-424d-84b2-a0e5ac36e3e0",
         "title": "Fear The Wolves",
         "genres": [1, 7, 2, 4],
         "publisher": 5,
@@ -1120,7 +1121,7 @@
         "developer": 123,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/819500/header.jpg?t=1565103569"
     }, {
-        "id": 141,
+        "id":  "1d797c74-6a5c-4377-b14b-dd2a1b83e43a",
         "title": "DiRT Rally 2.0",
         "genres": [14, 8, 15],
         "publisher": 92,
@@ -1128,7 +1129,7 @@
         "developer": 109,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/690790/header.jpg?t=1583410509"
     }, {
-        "id": 142,
+        "id":  "f6485fd4-0d7a-4437-84f0-99ed64522e9a",
         "title": "Imperator: Rome",
         "genres": [9, 8, 6],
         "publisher": 13,
@@ -1136,7 +1137,7 @@
         "developer": 74,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/859580/header.jpg?t=1580115328"
     }, {
-        "id": 143,
+        "id":  "73920e2d-2ab9-4458-a36d-0d03c22de49b",
         "title": "Gravel",
         "genres": [14, 15],
         "publisher": 102,
@@ -1144,7 +1145,7 @@
         "developer": 124,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/558260/header.jpg?t=1576505941"
     }, {
-        "id": 144,
+        "id":  "4b40824a-a74e-4c2e-9129-106b86ea345d",
         "title": "Divinity: Original Sin 2",
         "genres": [2, 5, 6],
         "publisher": 103,
@@ -1152,7 +1153,7 @@
         "developer": 125,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/435150/header.jpg?t=1581362845"
     }, {
-        "id": 145,
+        "id":  "0cac9895-85b3-4d1a-976e-e44df770c3b6",
         "title": "Infliction",
         "genres": [2, 3],
         "publisher": 104,
@@ -1160,7 +1161,7 @@
         "developer": 126,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/692100/header.jpg?t=1577450554"
     }, {
-        "id": 146,
+        "id":  "1e76b17f-99c3-4341-9c19-d9a1db004f3f",
         "title": "GTFO",
         "genres": [1, 7, 4],
         "publisher": 105,
@@ -1168,7 +1169,7 @@
         "developer": 127,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/493520/header.jpg?t=1576225411"
     }, {
-        "id": 147,
+        "id":  "f50c01c3-990f-4cbe-a758-da5c00b24136",
         "title": "Football Manager Touch 2018",
         "genres": [8, 15],
         "publisher": 31,
@@ -1176,7 +1177,7 @@
         "developer": 96,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/624120/header.jpg?t=1571753962"
     }, {
-        "id": 148,
+        "id":  "0613e7d1-4784-4b3b-a84f-014ca270c6b5",
         "title": "LEGO® Jurassic World",
         "genres": [1, 17, 2],
         "publisher": 8,
@@ -1184,7 +1185,7 @@
         "developer": 128,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/352400/header.jpg?t=1573511428"
     }, {
-        "id": 149,
+        "id":  "6050bb07-3483-4f3d-b1b7-d32b2c5fa3b2",
         "title": "GRIP: Combat Racing",
         "genres": [1, 3, 14],
         "publisher": 47,
@@ -1192,7 +1193,7 @@
         "developer": 129,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/396900/header.jpg?t=1577108632"
     }, {
-        "id": 150,
+        "id":  "ecfc430d-e2cf-41d7-b9f0-10f1a82ad7e4",
         "title": "Generation Zero",
         "genres": [1, 2],
         "publisher": 106,
@@ -1200,7 +1201,7 @@
         "developer": 130,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/704270/header.jpg?t=1579699938"
     }, {
-        "id": 151,
+        "id":  "2709bc3a-5a58-4ad1-8438-cf3e3de8dbca",
         "title": "Green Hell",
         "genres": [3, 8],
         "publisher": 107,
@@ -1208,7 +1209,7 @@
         "developer": 131,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/815370/header.jpg?t=1576840553"
     }, {
-        "id": 152,
+        "id":  "cb9044ed-86f7-4d09-9324-d8dac9224020",
         "title": "Golf With Your Friends",
         "genres": [9, 3, 15],
         "publisher": 108,
@@ -1216,7 +1217,7 @@
         "developer": 132,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/431240/header.jpg?t=1581504759"
     }, {
-        "id": 153,
+        "id":  "d3bf38a4-adcb-48a6-bd50-c78a508a8ae0",
         "title": "Besiege",
         "genres": [3, 8],
         "publisher": 109,
@@ -1224,7 +1225,7 @@
         "developer": 133,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/346010/header.jpg?t=1582040457"
     }, {
-        "id": 154,
+        "id":  "557c178b-6a53-4cf2-af41-5b4483f48b71",
         "title": "Forged Battalion",
         "genres": [3, 8, 6],
         "publisher": 110,
@@ -1232,7 +1233,7 @@
         "developer": 134,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/686260/header.jpg?t=1568822448"
     }, {
-        "id": 155,
+        "id":  "38b787ba-52d0-47e7-8955-f15097aab7f5",
         "title": "Hacknet",
         "genres": [3, 8, 13],
         "publisher": 111,
@@ -1240,7 +1241,7 @@
         "developer": 135,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/365450/header.jpg?t=1564615985"
     }, {
-        "id": 156,
+        "id":  "6bd036c1-4496-4867-8802-e1fd8740775d",
         "title": "Gloomhaven",
         "genres": [2, 5, 6],
         "publisher": 112,
@@ -1248,7 +1249,7 @@
         "developer": 136,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/780290/header.jpg?t=1582555197"
     }, {
-        "id": 157,
+        "id":  "89eea0cd-a4b8-44ad-ba03-a9014d825122",
         "title": "Idle Champions of the Forgotten Realms",
         "genres": [1, 2, 9, 10, 3, 6],
         "publisher": 113,
@@ -1256,7 +1257,7 @@
         "developer": 137,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/627690/header.jpg?t=1582137640"
     }, {
-        "id": 158,
+        "id":  "24460863-bb77-4300-a469-99118ca1842a",
         "title": "LEGO® Marvel™ Super Heroes",
         "genres": [1, 2, 17],
         "publisher": 8,
@@ -1264,7 +1265,7 @@
         "developer": 138,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/249130/header.jpg?t=1573497453"
     }, {
-        "id": 159,
+        "id":  "41396860-f168-46b9-b849-6e6a183e00a9",
         "title": "LEGO® The Incredibles",
         "genres": [17, 1, 2],
         "publisher": 8,
@@ -1272,7 +1273,7 @@
         "developer": 139,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/818320/header.jpg?t=1573500526"
     }, {
-        "id": 160,
+        "id":  "2c4c3169-58be-4838-b514-3b36f60643d0",
         "title": "LEGO® Harry Potter: Years 1-4",
         "genres": [1, 17],
         "publisher": 8,
@@ -1280,7 +1281,7 @@
         "developer": 139,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/21130/header.jpg?t=1573262302"
     }, {
-        "id": 161,
+        "id":  "73485af5-4b2d-400e-af2f-0cba3ebc0f2e",
         "title": "Homefront®: The Revolution",
         "genres": [1, 2, 7],
         "publisher": 114,
@@ -1288,7 +1289,7 @@
         "developer": 140,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/223100/header.jpg?t=1562640869"
     }, {
-        "id": 162,
+        "id":  "67a9815f-c9ad-4b47-b719-f2bd6025a33d",
         "title": "F1™ 2017",
         "genres": [8, 14],
         "publisher": 92,
@@ -1296,7 +1297,7 @@
         "developer": 109,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/515220/header.jpg?t=1573468396"
     }, {
-        "id": 163,
+        "id":  "db715de0-0eb7-4018-bff8-ab91d55403a2",
         "title": "Grim Dawn",
         "genres": [5, 1, 2, 3],
         "publisher": 115,
@@ -1304,7 +1305,7 @@
         "developer": 141,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/219990/header.jpg?t=1582551836"
     }, {
-        "id": 164,
+        "id":  "0b47001e-97c8-41a9-8116-5fecf7009750",
         "title": "Factorio",
         "genres": [1],
         "publisher": 116,
@@ -1312,7 +1313,7 @@
         "developer": 142,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/427520/header.jpg?t=1574715904"
     }, {
-        "id": 165,
+        "id":  "b683fe39-0985-4401-bc31-d5d8862ebffa",
         "title": "Last Tide",
         "genres": [1, 3, 4],
         "publisher": 95,
@@ -1320,7 +1321,7 @@
         "developer": 112,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/858590/header.jpg?t=1581645475"
     }, {
-        "id": 166,
+        "id":  "a8426063-a04f-49dd-977d-5b49cd43bebf",
         "title": "LEGO® Batman: The Videogame",
         "genres": [1, 2, 17],
         "publisher": 8,
@@ -1328,7 +1329,7 @@
         "developer": 138,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/21000/header.jpg?t=1573509038"
     }, {
-        "id": 167,
+        "id":  "904e163b-3c70-45e0-9811-a961e7b54194",
         "title": "Fimbul",
         "genres": [1, 2, 3],
         "publisher": 117,
@@ -1336,7 +1337,7 @@
         "developer": 143,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/771690/header.jpg?t=1551445815"
     }, {
-        "id": 168,
+        "id":  "5cc4bd4a-d70c-42e3-916f-239e36a8e63c",
         "title": "LEGO® Batman 2 DC Super Heroes™",
         "genres": [1, 17, 2],
         "publisher": 8,
@@ -1344,7 +1345,7 @@
         "developer": 139,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/213330/header.jpg?t=1573510008"
     }, {
-        "id": 169,
+        "id":  "68739be5-b7c4-4bab-8cf3-7e40731bd688",
         "title": "Miracle snack shop",
         "genres": [9, 3, 8],
         "publisher": 118,
@@ -1352,7 +1353,7 @@
         "developer": 144,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/995460/header.jpg?t=1570178193"
     }, {
-        "id": 170,
+        "id":  "6dfbf260-8786-48e9-919b-5e63a4ded17b",
         "title": "Nioh: Complete Edition",
         "genres": [1, 5],
         "publisher": 119,
@@ -1360,7 +1361,7 @@
         "developer": 145,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/485510/header.jpg?t=1570687109"
     }, {
-        "id": 171,
+        "id":  "3530f859-b678-4951-a6f5-989730e4f5a6",
         "title": "LEGO® Marvel Super Heroes 2",
         "genres": [1, 2, 17],
         "publisher": 120,
@@ -1368,7 +1369,7 @@
         "developer": 139,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/647830/header.jpg?t=1573498074"
     }, {
-        "id": 172,
+        "id":  "b08ccbae-e733-4295-b095-8304822d35f4",
         "title": "HITMAN™2",
         "genres": [1],
         "publisher": 121,
@@ -1376,7 +1377,7 @@
         "developer": 146,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/863550/header.jpg?t=1579001301"
     }, {
-        "id": 173,
+        "id":  "a0690c02-a4f6-469e-9e43-7d2d9e2173b7",
         "title": "MotoGP™19",
         "genres": [14, 15],
         "publisher": 102,
@@ -1384,7 +1385,7 @@
         "developer": 124,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/984780/header.jpg?t=1574345282"
     }, {
-        "id": 174,
+        "id":  "91ded368-f5df-4f52-9de9-5eac866d3e64",
         "title": "Insurgency",
         "genres": [1, 3, 6],
         "publisher": 122,
@@ -1392,7 +1393,7 @@
         "developer": 122,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/222880/header.jpg?t=1568419207"
     }, {
-        "id": 175,
+        "id":  "6e215aa5-fe76-4d7d-82ed-3223a0f304fd",
         "title": "Mount & Blade",
         "genres": [3, 5],
         "publisher": 123,
@@ -1400,7 +1401,7 @@
         "developer": 147,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/22100/header.jpg?t=1568738425"
     }, {
-        "id": 176,
+        "id":  "4ccbac86-b579-4744-9af1-43f667e5f958",
         "title": "Kerbal Space Program",
         "genres": [3, 8],
         "publisher": 124,
@@ -1408,7 +1409,7 @@
         "developer": 148,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/220200/header.jpg?t=1571698097"
     }, {
-        "id": 177,
+        "id":  "ce721971-cb63-41f9-bb83-53819649122b",
         "title": "LEGO® DC Super-Villains",
         "genres": [1, 2, 17],
         "publisher": 8,
@@ -1416,7 +1417,7 @@
         "developer": 139,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/829110/header.jpg?t=1578506825"
     }, {
-        "id": 178,
+        "id":  "06f08bb6-03f2-4b70-8f09-6c31c3475e64",
         "title": "Lonely Mountains: Downhill",
         "genres": [1, 3, 14, 8, 15],
         "publisher": 125,
@@ -1424,7 +1425,7 @@
         "developer": 149,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/711540/header.jpg?t=1582816933"
     }, {
-        "id": 179,
+        "id":  "4ae74401-30f9-47d2-8eb6-10ab2a78bfe2",
         "title": "Nex Machina",
         "genres": [1, 3],
         "publisher": 126,
@@ -1432,7 +1433,7 @@
         "developer": 150,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/404540/header.jpg?t=1572897820"
     }, {
-        "id": 180,
+        "id":  "de3a3d93-b053-4338-a73e-0fd56fd5c661",
         "title": "Myst® Masterpiece Edition",
         "genres": [2, 9, 13],
         "publisher": 127,
@@ -1440,7 +1441,7 @@
         "developer": 151,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/63660/header.jpg?t=1540235431"
     }, {
-        "id": 181,
+        "id":  "fecbd892-775f-4369-b21f-23113750949a",
         "title": "Myst V: End of Ages",
         "genres": [2, 9, 13],
         "publisher": 127,
@@ -1448,7 +1449,7 @@
         "developer": 151,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/208110/header.jpg?t=1539644659"
     }, {
-        "id": 182,
+        "id":  "294294b6-2f28-4f38-8404-4f9d5fc48308",
         "title": "Car Mechanic Simulator 2018",
         "genres": [14, 8],
         "publisher": 128,
@@ -1456,7 +1457,7 @@
         "developer": 152,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/645630/header.jpg?t=1581942886"
     }, {
-        "id": 183,
+        "id":  "f833376d-03d2-42d1-ade2-852edaad6398",
         "title": "GUILTY GEAR Xrd -REVELATOR-",
         "genres": [1],
         "publisher": 57,
@@ -1464,7 +1465,7 @@
         "developer": 69,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/520440/header.jpg?t=1573764687"
     }, {
-        "id": 184,
+        "id":  "b00a4dae-9a91-48e6-88d5-e1daec5aa055",
         "title": "LEGO® MARVEL's Avengers",
         "genres": [1, 2, 17],
         "publisher": 8,
@@ -1472,7 +1473,7 @@
         "developer": 138,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/405310/header.jpg?t=1573498458"
     }, {
-        "id": 185,
+        "id":  "1487ea75-6cb1-4deb-b67d-36f0fb85512e",
         "title": "Injustice™ 2",
         "genres": [1],
         "publisher": 8,
@@ -1480,7 +1481,7 @@
         "developer": 153,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/627270/header.jpg?t=1573860511"
     }, {
-        "id": 186,
+        "id":  "ee14b102-dfc8-4e1a-9390-f2fe5fae035b",
         "title": "Narcosis",
         "genres": [2, 3],
         "publisher": 129,
@@ -1488,7 +1489,7 @@
         "developer": 154,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/366870/header.jpg?t=1531522061"
     }, {
-        "id": 187,
+        "id":  "fcd1ce2e-c223-4a48-8676-756ad7447c40",
         "title": "INSOMNIA: The Ark",
         "genres": [1, 5, 3],
         "publisher": 130,
@@ -1496,7 +1497,7 @@
         "developer": 155,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/783170/header.jpg?t=1576769728"
     }, {
-        "id": 188,
+        "id":  "1fb4f957-4f56-40f7-ad40-c1ec60943608",
         "title": "Next Day: Survival",
         "genres": [1, 3, 5, 4],
         "publisher": 131,
@@ -1504,7 +1505,7 @@
         "developer": 156,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/519190/header.jpg?t=1527259457"
     }, {
-        "id": 189,
+        "id":  "5fc4d67f-131c-456f-a744-2f489e2aa6e3",
         "title": "MUSYNX",
         "genres": [3, 8],
         "publisher": 132,
@@ -1512,7 +1513,7 @@
         "developer": 157,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/952040/header.jpg?t=1579663087"
     }, {
-        "id": 190,
+        "id":  "8eae207c-f268-4287-a659-d005f6192ab5",
         "title": "Moonlighter",
         "genres": [1, 2, 3],
         "publisher": 133,
@@ -1520,7 +1521,7 @@
         "developer": 158,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/606150/header.jpg?t=1583743386"
     }, {
-        "id": 191,
+        "id":  "4d0ed0cb-4061-47ed-aaff-a42400095f4c",
         "title": "Kenshi",
         "genres": [5, 8, 6, 1, 3],
         "publisher": 134,
@@ -1528,7 +1529,7 @@
         "developer": 159,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/233860/header.jpg?t=1583332832"
     }, {
-        "id": 192,
+        "id":  "e90d3843-17d3-4d8d-bb62-e25b0a479cf9",
         "title": "I’m not a Monster",
         "genres": [3, 4, 5, 6],
         "publisher": 135,
@@ -1536,7 +1537,7 @@
         "developer": 160,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/826600/header.jpg?t=1583773609"
     }, {
-        "id": 193,
+        "id":  "c9c60205-4b9f-48a1-abef-176047ba1204",
         "title": "No Man's Sky",
         "genres": [2, 1],
         "publisher": 136,
@@ -1544,7 +1545,7 @@
         "developer": 161,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/275850/header.jpg?t=1578399134"
     }, {
-        "id": 194,
+        "id":  "296764cc-3eeb-4a95-9b3e-ced2e34f3be5",
         "title": "Mosaic",
         "genres": [2, 3],
         "publisher": 137,
@@ -1552,7 +1553,7 @@
         "developer": 162,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/349270/header.jpg?t=1579647315"
     }, {
-        "id": 195,
+        "id":  "44775840-6231-4089-ab1a-ffb7a28a4d8b",
         "title": "Disco Elysium",
         "genres": [2, 3, 5],
         "publisher": 138,
@@ -1560,7 +1561,7 @@
         "developer": 163,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/632470/header.jpg?t=1583156787"
     }, {
-        "id": 196,
+        "id":  "b25be366-ae05-4f73-a3fe-7557a6dfc490",
         "title": "Metro: Last Light Redux",
         "genres": [1, 7],
         "publisher": 114,
@@ -1568,7 +1569,7 @@
         "developer": 164,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/287390/header.jpg?t=1569508864"
     }, {
-        "id": 197,
+        "id":  "1892c21a-38be-42fe-aadb-3528ee9a6814",
         "title": "PixARK",
         "genres": [1, 2, 9, 3, 4, 5, 6],
         "publisher": 139,
@@ -1576,7 +1577,7 @@
         "developer": 165,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/593600/header.jpg?t=1581625039"
     }, {
-        "id": 198,
+        "id":  "edf020ee-27cf-4764-b16c-14d3634c8d56",
         "title": "Out of the Park Baseball 19",
         "genres": [15, 3, 8, 6],
         "publisher": 140,
@@ -1584,7 +1585,7 @@
         "developer": 166,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/619290/header.jpg?t=1583864183"
     }, {
-        "id": 199,
+        "id":  "3ea8362e-9469-465b-b9c9-d1bf85d9aa25",
         "title": "Monster Energy Supercross - The Official Videogame 3",
         "genres": [14, 8, 15],
         "publisher": 102,
@@ -1592,7 +1593,7 @@
         "developer": 124,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/1089830/header.jpg?t=1583222927"
     }, {
-        "id": 200,
+        "id":  "1fe33db9-5462-47db-b046-4ad47dda5333",
         "title": "NASCAR Heat 3",
         "genres": [15, 14],
         "publisher": 141,
@@ -1600,7 +1601,7 @@
         "developer": 167,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/905450/header.jpg?t=1581018835"
     }, {
-        "id": 201,
+        "id":  "cd6b7875-8ee8-4790-b7f1-91fbd1575235",
         "title": "MXGP 2019 - The Official Motocross Videogame",
         "genres": [14, 8, 15],
         "publisher": 102,
@@ -1608,7 +1609,7 @@
         "developer": 124,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/1018160/header.jpg?t=1566890048"
     }, {
-        "id": 202,
+        "id":  "d12556b9-5b37-4ade-a146-8132831a7fa6",
         "title": "Mortal Kombat 11",
         "genres": [1],
         "publisher": 121,
@@ -1616,7 +1617,7 @@
         "developer": 153,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/976310/header.jpg?t=1583685683"
     }, {
-        "id": 203,
+        "id":  "e6c3a2cc-5797-4483-adac-a6e16148f2a4",
         "title": "Raft",
         "genres": [2],
         "publisher": 142,
@@ -1624,7 +1625,7 @@
         "developer": 168,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/648800/header.jpg?t=1575637395"
     }, {
-        "id": 204,
+        "id":  "4b0b8ad5-8f05-4dc2-84c8-5911729beecc",
         "title": "Neverwinter",
         "genres": [1, 2, 10, 4, 5],
         "publisher": 143,
@@ -1632,7 +1633,7 @@
         "developer": 169,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/109600/header.jpg?t=1579643780"
     }, {
-        "id": 205,
+        "id":  "4c12c460-8dca-4cb2-afb0-9bec7307e4d5",
         "title": "Paladins®",
         "genres": [1, 10],
         "publisher": 144,
@@ -1640,7 +1641,7 @@
         "developer": 170,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/444090/header.jpg?t=1583351853"
     }, {
-        "id": 206,
+        "id":  "be6afcd9-9239-4b13-8395-5d0d4ba4f441",
         "title": "Owlboy",
         "genres": [1, 2, 3],
         "publisher": 145,
@@ -1648,7 +1649,7 @@
         "developer": 171,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/115800/header.jpg?t=1579965862"
     }, {
-        "id": 207,
+        "id":  "c3385c18-bab8-45a4-a9bb-510fc8f949ee",
         "title": "Middle-earth™: Shadow of Mordor™",
         "genres": [1, 5],
         "publisher": 8,
@@ -1656,7 +1657,7 @@
         "developer": 172,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/241930/header.jpg?t=1545176745"
     }, {
-        "id": 208,
+        "id":  "97213183-f9b9-4d1c-80be-161b344053f7",
         "title": "Ratropolis",
         "genres": [9, 3, 8, 6],
         "publisher": 146,
@@ -1664,7 +1665,7 @@
         "developer": 173,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/1108370/header.jpg?t=1579795753"
     }, {
-        "id": 209,
+        "id":  "a7650c24-35ec-4a15-ba27-7fed78f01d8c",
         "title": "Realm Grinder",
         "genres": [9, 10, 5, 6],
         "publisher": 147,
@@ -1672,7 +1673,7 @@
         "developer": 174,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/610080/header.jpg?t=1572786426"
     }, {
-        "id": 210,
+        "id":  "6d5cb820-45db-468c-9d88-2d5aa22fd503",
         "title": "Jurassic World Evolution™",
         "genres": [8, 6],
         "publisher": 148,
@@ -1680,7 +1681,7 @@
         "developer": 120,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/648350/header.jpg?t=1575974437"
     }, {
-        "id": 211,
+        "id":  "59b8feb6-1ebc-467b-a451-b8047e85fcf6",
         "title": "Kingdom Come: Deliverance",
         "genres": [2, 1, 5],
         "publisher": 149,
@@ -1688,7 +1689,7 @@
         "developer": 175,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/379430/header.jpg?t=1582451454"
     }, {
-        "id": 212,
+        "id":  "0c734970-6103-4cfa-837a-5dced20b09a8",
         "title": "Mortal Kombat X",
         "genres": [1, 16],
         "publisher": 8,
@@ -1696,7 +1697,7 @@
         "developer": 153,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/307780/header.jpg?t=1571846989"
     }, {
-        "id": 213,
+        "id":  "54a0835d-a779-4196-861d-42f115e904d7",
         "title": "Plane Mechanic Simulator",
         "genres": [9, 3, 8],
         "publisher": 150,
@@ -1704,7 +1705,7 @@
         "developer": 176,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/803980/header.jpg?t=1581523840"
     }, {
-        "id": 214,
+        "id":  "48dc4a00-4b37-48d3-9603-23bc153b2f35",
         "title": "Realm Royale",
         "genres": [1, 10, 7, 4],
         "publisher": 151,
@@ -1712,7 +1713,7 @@
         "developer": 177,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/813820/header.jpg?t=1582644377"
     }, {
-        "id": 215,
+        "id":  "f4445c8a-f316-424c-bd81-1355f5b2b18f",
         "title": "Parkitect",
         "genres": [3, 8],
         "publisher": 152,
@@ -1720,7 +1721,7 @@
         "developer": 178,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/453090/header.jpg?t=1575990446"
     }, {
-        "id": 216,
+        "id":  "49d539ff-5471-485b-b983-0e6e2ba000b5",
         "title": "Deceit",
         "genres": [1, 10, 3],
         "publisher": 153,
@@ -1728,7 +1729,7 @@
         "developer": 179,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/466240/header.jpg?t=1583283139"
     }, {
-        "id": 217,
+        "id":  "16defbb1-be76-4ac1-94fb-32a74ff50614",
         "title": "Pyre",
         "genres": [1, 3, 5],
         "publisher": 154,
@@ -1736,7 +1737,7 @@
         "developer": 180,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/462770/header.jpg?t=1578006248"
     }, {
-        "id": 218,
+        "id":  "32ada6b7-e68a-4573-acb1-48bb5f40a9d6",
         "title": "Kingdom Two Crowns",
         "genres": [2, 3, 8, 6],
         "publisher": 155,
@@ -1744,7 +1745,7 @@
         "developer": 181,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/701160/header.jpg?t=1576244479"
     }, {
-        "id": 219,
+        "id":  "1e4eae3c-9f6f-48ef-8a2f-1b455a9e776b",
         "title": "Myst IV: Revelation",
         "genres": [2, 9, 13],
         "publisher": 127,
@@ -1752,7 +1753,7 @@
         "developer": 4,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/925940/header.jpg?t=1539644459"
     }, {
-        "id": 220,
+        "id":  "02639c09-0a3e-4922-aeda-e12814e3bed9",
         "title": "Myst III: Exile",
         "genres": [2, 9, 13],
         "publisher": 127,
@@ -1760,7 +1761,7 @@
         "developer": 182,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/925930/header.jpg?t=1540235785"
     }, {
-        "id": 221,
+        "id":  "cbeb97a9-0e5a-450d-87ee-73a524b93567",
         "title": "Northgard",
         "genres": [3, 8, 6],
         "publisher": 156,
@@ -1768,7 +1769,7 @@
         "developer": 76,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/466560/header.jpg?t=1580399880"
     }, {
-        "id": 222,
+        "id":  "bac99f32-ee24-4de8-a45e-47e804433679",
         "title": "Minion Masters",
         "genres": [1, 10, 3, 4, 6],
         "publisher": 157,
@@ -1776,7 +1777,7 @@
         "developer": 183,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/489520/header_alt_assets_10.jpg?t=1583823171"
     }, {
-        "id": 223,
+        "id":  "716cdf3c-8785-4ea9-9972-390d842d52f4",
         "title": "Pathfinder: Kingmaker® - Enhanced Edition",
         "genres": [5, 2],
         "publisher": 114,
@@ -1784,7 +1785,7 @@
         "developer": 184,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/640820/header.jpg?t=1576778697"
     }, {
-        "id": 224,
+        "id":  "3eba7903-4b8f-45bc-bf67-defae93128a4",
         "title": "Left 4 Dead 2",
         "genres": [1, 7],
         "publisher": 14,
@@ -1792,7 +1793,7 @@
         "developer": 15,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/550/header.jpg?t=1571757222"
     }, {
-        "id": 225,
+        "id":  "cf7a1da4-e2c8-4c2a-82cf-cd05773ce19f",
         "title": "Distance",
         "genres": [1, 14, 3],
         "publisher": 158,
@@ -1800,7 +1801,7 @@
         "developer": 185,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/233610/header.jpg?t=1567725507"
     }, {
-        "id": 226,
+        "id":  "642131ba-5c03-473b-9b97-afc99af6e540",
         "title": "Mount & Blade: Warband",
         "genres": [1, 5],
         "publisher": 123,
@@ -1808,7 +1809,7 @@
         "developer": 147,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/48700/header.jpg?t=1568738359"
     }, {
-        "id": 227,
+        "id":  "bc3254dc-83cd-4d51-8a4e-5db2fba8cef7",
         "title": "realMyst: Masterpiece Edition",
         "genres": [2, 9, 3, 13],
         "publisher": 127,
@@ -1816,7 +1817,7 @@
         "developer": 151,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/244430/header.jpg?t=1568218059"
     }, {
-        "id": 228,
+        "id":  "54cc8cbd-4978-49b1-8c58-ccfd92b976ba",
         "title": "Pillars of Eternity",
         "genres": [5],
         "publisher": 13,
@@ -1824,7 +1825,7 @@
         "developer": 186,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/291650/header.jpg?t=1561476579"
     }, {
-        "id": 229,
+        "id":  "05c16728-1468-4850-add0-2c5ad3ba9706",
         "title": "Monster Energy Supercross - The Official Videogame 2",
         "genres": [14, 8, 15],
         "publisher": 102,
@@ -1832,7 +1833,7 @@
         "developer": 124,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/882020/header.jpg?t=1574345265"
     }, {
-        "id": 230,
+        "id":  "65d3cd1d-c466-42ce-9505-dab1e5d28cd6",
         "title": "My Memory of Us",
         "genres": [1, 2, 9, 3],
         "publisher": 159,
@@ -1840,7 +1841,7 @@
         "developer": 187,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/651500/header.jpg?t=1568989373"
     }, {
-        "id": 231,
+        "id":  "5cf17ab5-d7ee-4c4e-92ac-161c2327755d",
         "title": "FIA European Truck Racing Championship",
         "genres": [14, 8, 15],
         "publisher": 160,
@@ -1848,7 +1849,7 @@
         "developer": 188,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/940580/header.jpg?t=1568966469"
     }, {
-        "id": 232,
+        "id":  "f6b505b0-4528-4165-a0bb-01f7b751ed3c",
         "title": "Ravenfield",
         "genres": [1, 3],
         "publisher": 161,
@@ -1856,7 +1857,7 @@
         "developer": 189,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/636480/header.jpg?t=1561416237"
     }, {
-        "id": 233,
+        "id":  "08d4f96b-4b67-4dc6-a9fa-8f05a215f8ee",
         "title": "RAD",
         "genres": [1],
         "publisher": 66,
@@ -1864,7 +1865,7 @@
         "developer": 190,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/722560/header.jpg?t=1567546830"
     }, {
-        "id": 234,
+        "id":  "6c63f2ad-85fb-41b6-bf98-7aefff906c6b",
         "title": "Ice Age: Scrat's Nutty Adventure",
         "genres": [2, 17],
         "publisher": 162,
@@ -1872,6 +1873,7 @@
         "developer": 191,
         "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/751060/header.jpg?t=1579695097"
     }],
+        
     "developers": [{
         "id": 1,
         "name": "Studio Wildcard"
