@@ -4,7 +4,8 @@ const ACCEPTED_ORIGINS = [
   'http://localhost:1234',
   'http://localhost:8080',
   'https://videoGames.com',
-  'https://diego.dev'
+  'https://diego.dev',
+  '*'
 ]
 
 export const corsMiddleware = ({ acceptedorigns = ACCEPTED_ORIGINS } = {}) => cors({

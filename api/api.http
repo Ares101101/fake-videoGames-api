@@ -1,8 +1,23 @@
-GET  http://localhost:1234/videoGames
+GET  http://localhost:1234/videoGamesaa
 ###
-GET  http://localhost:1234/videoGames/0e67f866-21de-49a9-8a99-414e5c221b8b
+GET  http://localhost:1234/videoGames/publishers
 ###
-GET  http://localhost:1234/videoGames?categor=Family
+GET  http://localhost:1234/videoGames?publisher=UBISOFt
+###
+GET  http://localhost:1234/videoGames/developers
+###
+GET  http://localhost:1234/videoGames?developersssss=Sloclap
+###
+POST http://localhost:1234/videoGames/developers
+    Content-Type: application/json
+
+    {
+        "name": "diego Amachi"
+    }
+###
+GET  http://localhost:1234/videoGames/56514712-a2d5-44a9-9b28-5bd930b487feaaa
+###
+GET  http://localhost:1234/videoGames?genre=Familya
 ###
 POST http://localhost:1234/videoGames
 Content-Type: application/json
@@ -18,10 +33,12 @@ Content-Type: application/json
 }
 ### Actualizar una pelicula 
 
-PATCH  http://localhost:1234/videoGames/d4c65925-f6bf-4506-9436-997baa8dca2f
+PATCH  http://localhost:1234/videoGames/4e2bbcf5-b9ea-40ff-97fe-b0d3f11bc9a6
 Content-Type: application/json
 
     {
-        "publisher":3
+        "publisher":4
     }
+###
 
+DELETE   http://localhost:1234/videoGames/0af43d92-81c5-4622-87bb-b6c17beec22b
