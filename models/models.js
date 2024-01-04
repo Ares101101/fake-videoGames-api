@@ -6,7 +6,7 @@ const { games, developers, publishers, genres } = readJSON('../api/db/games.json
 export class VideoGamesModel {
   static async getAll ({ genre, publisher, developer }) {
     if (genre) {
-      const genr = genres.find((g) => g.name === genre)
+      const genr = genres.find((g) => g.name.toLowerCase() === genre.toLowerCase())
       if (genr === undefined) return false
       return games.filter(
         (Game) => Game.genres.some(id => id === genr.id)
