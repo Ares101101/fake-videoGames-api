@@ -38,6 +38,10 @@ export class VideoGamesModel {
     return publishers
   }
 
+  static async getGen () {
+    return genres
+  }
+
   static async getByID ({ id }) {
     const Game = games.find(Game => Game.id === id)
     return Game

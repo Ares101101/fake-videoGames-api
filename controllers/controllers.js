@@ -21,6 +21,11 @@ export class VideoGamesController {
     res.json(developers)
   }
 
+  static async getGen (req, res) {
+    const genre = await VideoGamesModel.getGen()
+    res.json(genre)
+  }
+
   static async getID (req, res) {
     const { id } = req.params
     const Game = await VideoGamesModel.getByID({ id })

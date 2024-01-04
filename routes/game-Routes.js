@@ -9,6 +9,8 @@ gamesRouter.get('/publishers', VideoGamesController.getPub)
 
 gamesRouter.get('/developers', VideoGamesController.getDev)
 
+gamesRouter.get('/genres', VideoGamesController.getGen)
+
 gamesRouter.get('/:id', VideoGamesController.getID)
 
 gamesRouter.post('/', VideoGamesController.createGame)
