@@ -6,22 +6,27 @@ const { games, developers, publishers, genres } = readJSON('../api/db/games.json
 export class VideoGamesModel {
   static async getAll ({ genre, publisher, developer }) {
     if (genre) {
+      const genr = genres.find((g) => g.name === genre)
+      if (genr === undefined) return false
       return games.filter(
-        (Game) => Game.genres.some(id => id === genres.find((g) => g.name === genre).id)
+        (Game) => Game.genres.some(id => id === genr.id)
       )
     }
     if (developer) {
+      console.log(developer)
+      const dev = developers.find(d => d.name.toLowerCase() === developer.toLowerCase())
+      if (dev === undefined) return false
       return games.filter(
-        (Game) => Game.developer === developers.find(d => d.name.toLowerCase() === developer.toLowerCase()).id
+        (Game) => Game.developer === dev.id
       )
     }
     if (publisher) {
-      console.log(publisher)
+      const publi = publishers.find(p => p.name.toLowerCase() === publisher.toLowerCase())
+      if (publi === undefined) return false
       return games.filter(
-        (Game) => Game.publisher === publishers.find(p => p.name.toLowerCase() === publisher.toLowerCase()).id
+        (Game) => Game.publisher === publi.id
       )
     }
-
     return games
   }
 
