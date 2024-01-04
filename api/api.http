@@ -1,4 +1,4 @@
-GET  http://localhost:1234/videoGamesaa
+GET  http://localhost:1234/videoGames
 ###
 GET  http://localhost:1234/videoGames/publishers
 ###
@@ -15,7 +15,7 @@ POST http://localhost:1234/videoGames/developers
         "name": "diego Amachi"
     }
 ###
-GET  http://localhost:1234/videoGames/56514712-a2d5-44a9-9b28-5bd930b487feaaa
+GET  http://localhost:1234/videoGames/56514712-a2d5-44a9-9b28-5bd930b487fe
 ###
 GET  http://localhost:1234/videoGames?genre=Family
 ###
@@ -24,11 +24,11 @@ Content-Type: application/json
 
 {
     "title": "ARK: Survival Of The Fittes",
-        "genres": [1, 2, 3, 4, 5, 6],
-        "publisher": 1,
-        "description": "ARK: Survival of the Fittest is a Multiplayer Online Survival Arena (MOSA) game that pits as many as 72 combatants against one another in the struggle for survival in a harsh, changing environment packed with deadly creatures, &#x201C;Evolution Events,&#x201D; and other players.",
-        "developer": 1,
-        "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/407530/header.jpg?t=1567712233"
+    "genres": [1, 2, 3, 4, 5, 6],
+    "publisher": 1,
+    "description": "ARK: Survival of the Fittest is a Multiplayer Online Survival Arena (MOSA) game that pits as many as 72 combatants against one another in the struggle for survival in a harsh, changing environment packed with deadly creatures, &#x201C;Evolution Events,&#x201D; and other players.",
+    "developer": 1,
+    "coverImage": "https://steamcdn-a.akamaihd.net/steam/apps/407530/header.jpg?t=1567712233"
    
 }
 ### Actualizar una pelicula 
